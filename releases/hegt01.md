@@ -1,7 +1,8 @@
 ---
-title: ""estralurtarrak "another frontline compilation" (heg-t01) - october 2021""
+title: "Angel Katarain - hegoa"
 image: "../public/assets/Hegt01_A.webp"
-embed: "https://bandcamp.com/EmbeddedPlayer/album=3942836647/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+bandcamp: "https://angelkatarain.bandcamp.com/album/a-2"
+type: "release"
 ---
 
 Estralurtarrak (Extraterrestrials) was a hardcore techno-pop band that emerged in the city of Pamplona in the north of Spain during the 90's.

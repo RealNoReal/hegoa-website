@@ -1,7 +1,8 @@
 ---
-title: "'angel katarain "angel katarain" (heg01) - march 2021'"
+title: "Estralurtarrak - Another Frontline Compilation - hegoa"
 image: "../public/assets/Heg01_A.webp"
-embed: "https://bandcamp.com/EmbeddedPlayer/album=782284648/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+bandcamp: "https://estralurtarrak.bandcamp.com/album/another-frontline-compilation"
+type: "release"
 ---
 
 Oddball electronic / studio experiments halfway between a deserted dance floor and a cinematic experience. Distant voices and distorted electric guitars depict the influence of early coldwave, post-punk and German electronic experimentalists. For fans of Tuxedomoon, Algebra Suicide, Pascal Comelade or the elusive side of Patrick Cowley.

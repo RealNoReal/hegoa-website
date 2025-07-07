@@ -1,4 +1,3 @@
 ---
-title: ""watch01 - hegoa""
+title: "watch01 - hegoa"
 ---
-

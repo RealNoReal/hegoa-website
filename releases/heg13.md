@@ -1,9 +1,8 @@
 ---
-title: ""heg013 - hegoa""
+title: "heg013 - hegoa"
 image: "../public/assets/Heg13_A.webp"
 embed: "https://bandcamp.com/EmbeddedPlayer/album=20439655/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
-
 Al Karpenter expands on their Post-Genre Punk approach reaching a new level of maturity. In fact, we can say that “Greatest Heads” is Al Karpenter’s “Remain in Light” from Talking Heads in the sense that it is also their fourth record, heavily based on production and is influenced by Afrobeat in distorted ways.
 
         This record contains elaborated liner notes by Eoin Anderson and features very special guests: “ “ [sic] Goldie, Lisa Rosendahl, and Mikel Xedh — a deeply important musician from the Basque Country who collaborated with Al for over a decade and who recently passed away. This record is dedicated to him.

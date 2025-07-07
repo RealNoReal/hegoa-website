@@ -1,9 +1,8 @@
 ---
-title: ""heg09 - hegoa""
+title: "heg09 - hegoa"
 image: "../public/assets/Heg09_A.webp"
 embed: "https://bandcamp.com/EmbeddedPlayer/album=749646337/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
-
 Dopelganger is the project in collaboration between classically trained accordion player and singer Garazi Navas (Usansolo, Bizkaia-Biscay, 1995) and Miguel A. Garcia (Vitoria-Gasteiz), an artist living in Bilbao with an extensive career in the fields of experimental music and sound art.
 
      Sainen Hildo is an album based on Miguel’s original compositions, recomposed and rearranged for accordion and voice by the two composers. Using the natural resonance and harmonics of these two instruments to influence their introspective interactions, resulting in evolving drones and tones and puzzling percussive outbursts. Unusual and at times unsettling, they manage to create a calibrated, deep and complex exploratory universe of ambience and drone where listening becomes a ritual. Highest recommendation for fans of Pauline Oliveros, Eliane Radigue or Phill Niblock.
