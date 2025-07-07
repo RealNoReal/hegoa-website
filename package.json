@@ -1,12 +1,10 @@
 {
-  "name": "hegoa-website",
+  "name": "hegoa",
   "version": "1.0.0",
-  "description": "Hegoa site with Decap CMS and Eleventy",
   "scripts": {
-    "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
+    "@11ty/eleventy": "^2.0.1"
   }
 }
