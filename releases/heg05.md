@@ -1,5 +1,5 @@
 ---
-title: "heg05 - hegoa"
+title: ""heg05 - hegoa""
 image: "../public/assets/Heg05_A.webp"
 embed: "https://bandcamp.com/EmbeddedPlayer/album=2429684048/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---

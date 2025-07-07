@@ -1,5 +1,5 @@
 ---
-title: "estralurtarrak "another frontline compilation" (heg-t01) - october 2021"
+title: ""estralurtarrak "another frontline compilation" (heg-t01) - october 2021""
 image: "../public/assets/Hegt01_A.webp"
 embed: "https://bandcamp.com/EmbeddedPlayer/album=3942836647/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
