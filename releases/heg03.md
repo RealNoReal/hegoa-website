@@ -1,8 +1,9 @@
 ---
-title: heg03 - hegoa
-image: ../public/assets/Heg03_A.webp
-embed: https://bandcamp.com/EmbeddedPlayer/album=3148008875/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/
+title: "heg03 - hegoa"
+image: "../public/assets/Heg03_A.webp"
+embed: "https://bandcamp.com/EmbeddedPlayer/album=3148008875/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
+
 Cosmic proto-blues. Atanas Akerstra is the solo project of Rogelio Astigarraga.
 
      Roge has been a core member of the ever-changing and hugely influential experimental/industrial rock band Akauzazte, from Azkoitia, for over three decades. Located in the mountains of the Urola river valley at the heart of the Basque Country, Azkoitia has an old slaughterhouse that was turned in 1996 into a self-managed building used as an art/performance space, theatre, cinema, live music venue, and recording studio. Environment and heritage are essential to understanding Roge and Akauzazte's musical output as journalist Antton Iturbe suggests:

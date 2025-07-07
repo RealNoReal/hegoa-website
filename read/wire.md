@@ -1,6 +1,5 @@
 ---
-title: Wire
-author: ''
-file: /assets/wire.pdf
+title: "Wire"
+author: ""
+file: "/assets/wire.pdf"
 ---
-

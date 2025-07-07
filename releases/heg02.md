@@ -1,8 +1,9 @@
 ---
-title: heg02 - hegoa
-image: ../public/assets/Heg02_A.webp
-embed: https://bandcamp.com/EmbeddedPlayer/album=227837001/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/
+title: "heg02 - hegoa"
+image: "../public/assets/Heg02_A.webp"
+embed: "https://bandcamp.com/EmbeddedPlayer/album=227837001/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
+
 Oddball electronic / studio experiments halfway between a deserted dance floor and a cinematic experience. Distant voices and distorted electric guitars depict the influence of early coldwave, post-punk and German electronic experimentalists. For fans of Tuxedomoon, Algebra Suicide, Pascal Comelade or the elusive side of Patrick Cowley.
 
      Hegoa Records starts its venture with a compilation of works by an essential figure in the small but prolific Basque folk and rock scene. Angel Katarain (1961 Ordizia, Spain), alongside Jean Phocas and Kaki Arkarazo, is one of the few sound engineers who captured and produced most of the music that came out of the Basque Country in the 70s and 80s, during his years as an in-house studio engineer for IZ label.

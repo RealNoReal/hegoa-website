@@ -1,6 +1,5 @@
 ---
-title: Soundohm
-author: ''
-file: /assets/soundohm.pdf
+title: "Soundohm"
+author: ""
+file: "/assets/soundohm.pdf"
 ---
-

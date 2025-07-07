@@ -1,8 +1,9 @@
 ---
-title: heg012 - hegoa
-image: ../public/assets/Heg12_A.webp
-embed: https://bandcamp.com/EmbeddedPlayer/album=2070652195/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/
+title: "heg012 - hegoa"
+image: "../public/assets/Heg12_A.webp"
+embed: "https://bandcamp.com/EmbeddedPlayer/album=2070652195/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
+
 “Onomatopeikoa II” follows on from
      Irazoki's 2017 Gitarra Onomatopeikoa
      release, and that album's sense of

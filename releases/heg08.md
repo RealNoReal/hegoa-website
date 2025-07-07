@@ -1,8 +1,9 @@
 ---
-title: heg08 - hegoa
-image: ../public/assets/Heg08_A.webp
-embed: https://bandcamp.com/EmbeddedPlayer/album=1479468834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/
+title: "heg08 - hegoa"
+image: "../public/assets/Heg08_A.webp"
+embed: "https://bandcamp.com/EmbeddedPlayer/album=1479468834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
 ---
+
 Biarrezgaur (not tomorrow, today) is a blissful and misty set of guitar tones entangled with effects and reverberation. Dreamy and reflective proto-blues-folk sketches that suggest a sense of matured serenity that only comes with years of practice. Spontaneous, gentle and free-flowing in equal parts, Biarrezgaur is a perfect autumnal recipe for those looking in the direction of Six Organs of Admittance, Loren Connors with Alan Licht, or even Robbie Basho or Albert Gimenez if you listen to the closing track Itzulera.
 
      Bidai (Trip) is the new collaborative project between two emblematic figures of the rich Basque musical heritage, Xabi Strubell & Mikel Vega. It took more than 30 years for their paths to cross, but we are very pleased they finally did in 2022. Entirely improvised with two guitars and effects, it was recorded at Bonberenea, the independent and self-funded cultural hub housed in an abandoned warehouse in Tolosa (in the valley of the river Oria).
