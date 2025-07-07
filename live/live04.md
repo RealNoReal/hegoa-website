@@ -1,9 +1,4 @@
 ---
-title: "hegoa x cafe oto - london - 13 august 24"
+title: "live04 - hegoa"
 image: "../public/assets/live4_0.webp"
-layout: release.njk
 ---
-
-
-
-
