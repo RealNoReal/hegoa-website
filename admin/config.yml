@@ -1,0 +1,90 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: public/assets
+public_folder: /assets
+collections:
+- name: releases
+  label: Catalog
+  folder: releases
+  create: true
+  slug: '{{slug}}'
+  fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: Description
+    name: body
+    widget: markdown
+  - label: Artwork
+    name: image
+    widget: image
+  - label: Audio Embed
+    name: embed
+    widget: string
+- name: live
+  label: Live
+  folder: live
+  create: true
+  slug: '{{slug}}'
+  fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: Images
+    name: images
+    widget: list
+    field:
+      label: Image
+      name: image
+      widget: image
+- name: watch
+  label: Watch
+  folder: watch
+  create: true
+  slug: '{{slug}}'
+  fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: Google Drive Embed URL
+    name: url
+    widget: string
+  - label: Optional HTML Embed
+    name: embed
+    widget: text
+    required: false
+  - label: Thumbnail (optional)
+    name: thumbnail
+    widget: image
+    required: false
+- name: radio
+  label: Radio
+  folder: radio
+  create: true
+  slug: '{{slug}}'
+  fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: Audio Link
+    name: url
+    widget: string
+- name: read
+  label: Read
+  folder: read
+  create: true
+  slug: '{{slug}}'
+  fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: Author
+    name: author
+    widget: string
+  - label: PDF
+    name: file
+    widget: file
+    media_library:
+      config:
+        multiple: false
