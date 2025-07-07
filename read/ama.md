@@ -1,5 +1,6 @@
 ---
-title: "Ama"
-author: ""
-file: "/assets/ama.pdf"
+title: Ama
+author: ''
+file: /assets/ama.pdf
 ---
+
