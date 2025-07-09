@@ -12,7 +12,7 @@ title: Hegoa
   <div class="entry-block">
     <div class="section-title">catalog</div>
     <div class="entries">
-      {% for item in collections.releases reversed %}
+      {% for item in collections.releases | reverse %}
         <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
       {% endfor %}
     </div>
@@ -21,7 +21,7 @@ title: Hegoa
   <div class="entry-block">
     <div class="section-title">radio</div>
     <div class="entries">
-      {% for item in collections.radio reversed %}
+      {% for item in collections.radio | reverse %}
         <div><a href="{{ item.data.audio }}">{{ item.data.title }}</a></div>
       {% endfor %}
     </div>
@@ -30,7 +30,7 @@ title: Hegoa
   <div class="entry-block">
     <div class="section-title">read</div>
     <div class="entries">
-      {% for item in collections.read reversed %}
+      {% for item in collections.read | reverse %}
         <div><a href="{{ item.data.pdf }}">{{ item.data.title }}</a></div>
       {% endfor %}
     </div>
@@ -39,7 +39,7 @@ title: Hegoa
   <div class="entry-block">
     <div class="section-title">live</div>
     <div class="entries">
-      {% for item in collections.live reversed %}
+      {% for item in collections.live | reverse %}
         <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
       {% endfor %}
     </div>
@@ -48,7 +48,7 @@ title: Hegoa
   <div class="entry-block">
     <div class="section-title">watch</div>
     <div class="entries">
-      {% for item in collections.watch reversed %}
+      {% for item in collections.watch | reverse %}
         <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
       {% endfor %}
     </div>
