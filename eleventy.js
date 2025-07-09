@@ -1,13 +1,14 @@
 module.exports = function(eleventyConfig) {
-  // Passthrough copy for assets
-  eleventyConfig.addPassthroughCopy("styles");
-  eleventyConfig.addPassthroughCopy("public");
+  // Passthrough copy for static assets
+  eleventyConfig.addPassthroughCopy("styles");   // main.css and other styles
+  eleventyConfig.addPassthroughCopy("public");   // images, PDFs, etc.
+  eleventyConfig.addPassthroughCopy("admin");    // Netlify CMS admin panel if used
 
   return {
     dir: {
-      input: ".",
-      includes: "_includes",
-      output: "_site"
+      input: ".",             // root directory for source files
+      includes: "_includes",  // layout and partials folder
+      output: "_site"         // output folder for Netlify
     }
   };
 };

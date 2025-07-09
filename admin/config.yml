@@ -1,4 +1,3 @@
-
 backend:
   name: git-gateway
   branch: main
@@ -18,3 +17,47 @@ collections:
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Description", name: "description", widget: "markdown" }
       - { label: "Bandcamp Link", name: "bandcamp", widget: "string" }
+
+  - name: "live"
+    label: "Live"
+    folder: "live"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "live.njk" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image" }
+
+  - name: "watch"
+    label: "Watch"
+    folder: "watch"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "watch.njk" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Video Link", name: "video", widget: "string" }
+
+  - name: "radio"
+    label: "Radio"
+    folder: "radio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "radio.njk" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Audio Link", name: "audio", widget: "string" }
+
+  - name: "read"
+    label: "Read"
+    folder: "read"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "read.njk" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "PDF", name: "pdf", widget: "file" }
