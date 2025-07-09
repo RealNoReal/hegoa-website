@@ -3,4 +3,55 @@ layout: base.njk
 title: Hegoa
 ---
 
-<p>Welcome to Hegoa</p>
+<div class="intro">
+  Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
+</div>
+
+<div class="column">
+
+  <div class="entry-block">
+    <div class="section-title">catalog</div>
+    <div class="entries">
+      {% for item in collections.releases reversed %}
+        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">radio</div>
+    <div class="entries">
+      {% for item in collections.radio reversed %}
+        <div><a href="{{ item.data.audio }}">{{ item.data.title }}</a></div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">read</div>
+    <div class="entries">
+      {% for item in collections.read reversed %}
+        <div><a href="{{ item.data.pdf }}">{{ item.data.title }}</a></div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">live</div>
+    <div class="entries">
+      {% for item in collections.live reversed %}
+        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">watch</div>
+    <div class="entries">
+      {% for item in collections.watch reversed %}
+        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
