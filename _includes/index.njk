@@ -1,18 +1,50 @@
+<div class="intro">
+  Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region...
+</div>
+
 <div class="column">
-  {% for block in ["releases", "radio", "read", "live", "watch"] %}
-    <div class="entry-block">
-      <div class="section-title">
-        {% if block == "releases" %}
-          catalog
-        {% else %}
-          {{ block }}
-        {% endif %}
-      </div>
-      <div class="entries">
-        {% for item in collections[block] reversed %}
-          <a href="{{ item.url }}">{{ item.data.title }}</a>
-        {% endfor %}
-      </div>
+  <div class="entry-block">
+    <div class="section-title">catalog</div>
+    <div class="entries">
+      {% for item in collections.releases | reverse %}
+        <a href="{{ item.url }}">{{ item.templateContent | striptags | truncate(100) }}</a>
+      {% endfor %}
     </div>
-  {% endfor %}
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">radio</div>
+    <div class="entries">
+      {% for item in collections.radio | reverse %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">read</div>
+    <div class="entries">
+      {% for item in collections.read | reverse %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">live</div>
+    <div class="entries">
+      {% for item in collections.live | reverse %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">watch</div>
+    <div class="entries">
+      {% for item in collections.watch | reverse %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
 </div>
