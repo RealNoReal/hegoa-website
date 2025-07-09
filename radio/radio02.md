@@ -1,6 +1,11 @@
 ---
 layout: radio.njk
-title: ---
+title: radio02
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio02/
+---
+
 date: 2025-06-05
 tags: radio
 permalink: /radio/radio02/

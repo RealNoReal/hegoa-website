@@ -1,6 +1,11 @@
 ---
 layout: watch.njk
-title: ---
+title: watch01
+date: 2025-01-01
+tags: watch
+permalink: /watch/watch01/
+---
+
 date: 2025-01-01
 tags: watch
 permalink: /watch/watch01/

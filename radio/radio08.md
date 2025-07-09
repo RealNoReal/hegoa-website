@@ -1,6 +1,11 @@
 ---
 layout: radio.njk
-title: ---
+title: radio08
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio08/
+---
+
 date: 2025-06-05
 tags: radio
 permalink: /radio/radio08/

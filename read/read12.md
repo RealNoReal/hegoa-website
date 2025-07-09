@@ -1,6 +1,11 @@
 ---
 layout: read.njk
-title: ---
+title: read12
+date: 2025-06-01
+tags: read
+permalink: /read/read12/
+---
+
 date: 2025-06-01
 tags: read
 permalink: /read/read12/
