@@ -1,3 +1,7 @@
+---
+title: hegoa
+layout: base.njk
+---
 
 <p class="intro">
   Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
@@ -6,9 +10,11 @@
 <main class="column">
   {% for block in ["releases", "radio", "read", "live", "watch"] %}
     <div class="entry-block">
-      <div class="section-title">
-        {{ block == "releases" ? "catalog" : block }}
-      </div>
+      {% if block == "releases" %}
+        <div class="section-title">catalog</div>
+      {% else %}
+        <div class="section-title">{{ block }}</div>
+      {% endif %}
       <div class="entries">
         {% assign sorted = collections[block] | sort(attribute="data.date") | reverse %}
         {% for item in sorted %}
