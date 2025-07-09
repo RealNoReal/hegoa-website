@@ -1,57 +1,72 @@
----
-layout: base.njk
-title: Hegoa
----
+<section>
+  <p>
+    Over the last few years, the London based imprint, Hegoa, has taken great strides toward
+    illuminating the shadowy world of contemporary music emerging from the Basque region,
+    an autonomous community in northern Spain with its own distinct cultural traditions and language.
+  </p>
+</section>
 
-<div class="intro">
-  Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
-</div>
+<section>
+  <h2><strong>catalog</strong></h2>
+  <ul>
+    {% for item in collections.release %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-<div class="column">
+<section>
+  <h2><strong>radio</strong></h2>
+  <ul>
+    {% for item in collections.radio %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-  <div class="entry-block">
-    <div class="section-title">catalog</div>
-    <div class="entries">
-      {% for item in collections.releases | reverse %}
-        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
-      {% endfor %}
-    </div>
-  </div>
+<section>
+  <h2><strong>read</strong></h2>
+  <ul>
+    {% for item in collections.read %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-  <div class="entry-block">
-    <div class="section-title">radio</div>
-    <div class="entries">
-      {% for item in collections.radio | reverse %}
-        <div><a href="{{ item.data.audio }}">{{ item.data.title }}</a></div>
-      {% endfor %}
-    </div>
-  </div>
+<section>
+  <h2><strong>live</strong></h2>
+  <ul>
+    {% for item in collections.live %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-  <div class="entry-block">
-    <div class="section-title">read</div>
-    <div class="entries">
-      {% for item in collections.read | reverse %}
-        <div><a href="{{ item.data.pdf }}">{{ item.data.title }}</a></div>
-      {% endfor %}
-    </div>
-  </div>
-
-  <div class="entry-block">
-    <div class="section-title">live</div>
-    <div class="entries">
-      {% for item in collections.live | reverse %}
-        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
-      {% endfor %}
-    </div>
-  </div>
-
-  <div class="entry-block">
-    <div class="section-title">watch</div>
-    <div class="entries">
-      {% for item in collections.watch | reverse %}
-        <div><a href="{{ item.url }}">{{ item.data.title }}</a></div>
-      {% endfor %}
-    </div>
-  </div>
-
-</div>
+<section>
+  <h2><strong>watch</strong></h2>
+  <ul>
+    {% for item in collections.watch %}
+      <li>
+        <a href="{{ item.url }}">
+          {{ item.data.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
