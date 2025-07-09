@@ -16,7 +16,7 @@ layout: base.njk
         <div class="section-title">{{ block }}</div>
       {% endif %}
       <div class="entries">
-        {% assign sorted = collections[block] | sort(attribute="data.date") | reverse %}
+        {% set sorted = collections[block] | sort(attribute="data.date") | reverse %}
         {% for item in sorted %}
           <a href="{{ item.url }}">{{ item.data.title }}</a>
         {% endfor %}
