@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "stamp the wax, april 2021"
-pdf: "https://www.stampthewax.com/2021/03/04/a-brief-history-of-post-franco-basque-music/"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read13/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read13/
 ---
 
 Reading material related to Hegoa.

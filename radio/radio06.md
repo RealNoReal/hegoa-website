@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "nts basque special w/ hegoa - 17 february 2024"
-audio: "https://www.nts.live/shows/hegoa/episodes/hegoa-basque-special-17th-february-2024"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio06/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio06/
 ---
 
 Radio appearance or session.

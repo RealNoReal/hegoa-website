@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "soundohm, bradford bailey - september 2024"
-pdf: "../public/assets/soundohm.pdf"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read05/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read05/
 ---
 
 Reading material related to Hegoa.

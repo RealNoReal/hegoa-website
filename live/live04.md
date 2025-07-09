@@ -1,6 +1,13 @@
 ---
 layout: live.njk
-title: live04
+title: ---
+date: 2025-05-01
+tags: live
+permalink: /live/live04/
+---
+
+date: 2025-05-01
+tags: live
 permalink: /live/live04/
 ---
 

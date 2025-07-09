@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "radio relativa broad lane tottenham takeover w/ hegoa - 3 august 2024"
-audio: "https://radiorelativa.eu/episode/broad-lane-tottenham-takeover-w-mikel-hegoa"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio05/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio05/
 ---
 
 Radio appearance or session.

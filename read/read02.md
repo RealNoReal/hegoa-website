@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "ama, artium museum of contemporary art of the basque country - december 2024"
-pdf: "../public/assets/ama.pdf"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read02/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read02/
 ---
 
 Reading material related to Hegoa.

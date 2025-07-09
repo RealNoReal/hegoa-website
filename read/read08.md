@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "soundohm, bradford bailey - march 2023"
-pdf: "https://www.soundohm.com/article/alberto-lizarralde"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read08/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read08/
 ---
 
 Reading material related to Hegoa.

@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "radio relativa w/ hegoa - 29 november 2021"
-audio: "https://radiorelativa.eu/episode/hegoa-diskak"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio08/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio08/
 ---
 
 Radio appearance or session.

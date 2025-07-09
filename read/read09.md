@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "soundohm, bradford bailey - june 2022"
-pdf: "https://www.soundohm.com/article/carcascara"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read09/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read09/
 ---
 
 Reading material related to Hegoa.

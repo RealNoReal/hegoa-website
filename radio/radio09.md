@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "a brief history of post franco basque music - 2021"
-audio: "https://soundcloud.com/stampthewax/a-brief-history-of-post-franco-basque-music"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio09/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio09/
 ---
 
 Radio appearance or session.

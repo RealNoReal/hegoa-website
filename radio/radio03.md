@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "nts hegoa - 8 december 2024"
-audio: "https://www.nts.live/shows/hegoa/episodes/hegoa-8th-december-2024"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio03/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio03/
 ---
 
 Radio appearance or session.

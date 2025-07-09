@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "nts hegoa w/ fiesta en el vacio - 17 september 2024"
-audio: "https://www.nts.live/shows/hegoa/episodes/hegoa-w-fiesta-en-el-vacio-17th-september-2024"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio04/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio04/
 ---
 
 Radio appearance or session.

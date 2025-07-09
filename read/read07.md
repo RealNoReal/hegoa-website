@@ -1,7 +1,14 @@
 ---
 layout: read.njk
-title: "berria - antton iturbe - june 2023"
-pdf: "https://www.berria.eus/paperekoa/1864/028/001/2023-06-21/goraipatzekoa-da-euskal-musika-galdua-kaleratzea.htm"
+title: ---
+date: 2025-06-01
+tags: read
+permalink: /read/read07/
+---
+
+date: 2025-06-01
+tags: read
+permalink: /read/read07/
 ---
 
 Reading material related to Hegoa.

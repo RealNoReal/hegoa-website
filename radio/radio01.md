@@ -1,7 +1,14 @@
 ---
 layout: radio.njk
-title: "nts hegoa - 5 june 2025"
-audio: "https://www.nts.live/shows/hegoa/episodes/hegoa-5th-june-2025"
+title: ---
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio01/
+---
+
+date: 2025-06-05
+tags: radio
+permalink: /radio/radio01/
 ---
 
 Radio appearance or session.

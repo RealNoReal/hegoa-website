@@ -1,7 +1,14 @@
 ---
 layout: release.njk
-title: heg10
-permalink: /releases/heg10/
+title: ---
+date: 2025-07-01
+tags: release
+permalink: /release/heg10/
+---
+
+date: 2025-07-01
+tags: release
+permalink: /release/heg10/
 ---
 
 home
