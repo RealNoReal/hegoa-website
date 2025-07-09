@@ -9,12 +9,8 @@
 <section>
   <h2><strong>catalog</strong></h2>
   <ul>
-    {% for item in collections.release %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li>
+    {% for item in collections.releases %}
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 </section>
@@ -23,11 +19,7 @@
   <h2><strong>radio</strong></h2>
   <ul>
     {% for item in collections.radio %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li>
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 </section>
@@ -36,11 +28,7 @@
   <h2><strong>read</strong></h2>
   <ul>
     {% for item in collections.read %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li>
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 </section>
@@ -49,11 +37,7 @@
   <h2><strong>live</strong></h2>
   <ul>
     {% for item in collections.live %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li>
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 </section>
@@ -62,11 +46,7 @@
   <h2><strong>watch</strong></h2>
   <ul>
     {% for item in collections.watch %}
-      <li>
-        <a href="{{ item.url }}">
-          {{ item.data.title }}
-        </a>
-      </li>
+      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 </section>
