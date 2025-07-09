@@ -1,0 +1,6 @@
+---
+layout: base.njk
+title: Home
+---
+
+{% include "index.njk" %}
