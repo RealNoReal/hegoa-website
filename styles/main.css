@@ -11,45 +11,65 @@ main {
   max-width: 800px;
 }
 
-/* Index-specific styles */
+/* Intro paragraph */
 .intro {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
+/* Main vertical column layout */
 .column {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
 }
 
+/* Each section block (catalog, radio, etc.) */
 .entry-block {
   display: flex;
   align-items: flex-start;
   gap: 1rem;
 }
 
+/* Left-side section title */
 .section-title {
   flex: 0 0 80px;
   font-weight: bold;
+  font-size: 15.3px;
+  text-transform: lowercase;
 }
 
+/* Right-side entries list */
 .entries {
   flex: 1;
 }
 
+/* Entry links */
 .entries a {
-  display: block;
-  margin-bottom: 0.2rem;
-  text-decoration: none;
+  display: inline-block;
+  position: relative;
   color: black;
+  text-decoration: none;
+  margin-bottom: 0.2rem;
 }
 
-.entries a:hover {
-  text-decoration: underline;
+/* Underline animation on hover */
+.entries a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 1px;
+  width: 0;
+  background-color: black;
+  transition: width 0.3s ease;
 }
 
-/* Shared styles for catalog, live, watch pages */
+.entries a:hover::after {
+  width: 100%;
+}
+
+/* Shared content pages styling (release, read, live...) */
 .page-content {
   font-family: HelveticaNeueLTStd-Roman, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15.3px;
@@ -62,7 +82,7 @@ main {
 .page-content .home-link {
   font-weight: bold;
   display: inline-block;
-  margin-bottom: 1rem;  /* tighter spacing */
+  margin-bottom: 1rem;
 }
 
 .page-content img {
@@ -82,18 +102,18 @@ main {
 }
 
 .page-content iframe {
-  margin-top: 1rem;   /* reduced spacing before iframe */
+  margin-top: 1rem;
   max-width: 100%;
 }
 
-/* Heg pages: enforce square smaller images */
+/* Catalog/release pages: square thumbnail */
 .page-content.heg img {
-  max-width: 40%;          /* smaller size */
-  aspect-ratio: 1 / 1;     /* square */
-  object-fit: cover;       /* fill square nicely */
+  max-width: 40%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
-/* Live pages grid styling */
+/* Grid layout for live pages */
 .live-album-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

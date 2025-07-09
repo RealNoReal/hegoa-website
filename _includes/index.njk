@@ -1,52 +1,21 @@
-<section>
-  <p>
-    Over the last few years, the London based imprint, Hegoa, has taken great strides toward
-    illuminating the shadowy world of contemporary music emerging from the Basque region,
-    an autonomous community in northern Spain with its own distinct cultural traditions and language.
-  </p>
-</section>
+<div class="intro">
+  Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
+</div>
 
-<section>
-  <h2><strong>catalog</strong></h2>
-  <ul>
-    {% for item in collections.releases %}
-      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
+<div class="column">
 
-<section>
-  <h2><strong>radio</strong></h2>
-  <ul>
-    {% for item in collections.radio %}
-      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
+  {% for collection in ['releases', 'radio', 'read', 'live', 'watch'] %}
+    <div class="entry-block">
+      <div class="section-title">{{ collection }}</div>
+      <div class="entries">
+        {% assign sorted = collections[collection] | reverse %}
+        {% for item in sorted %}
+          <div>
+            <a href="{{ item.url }}">{{ item.data.title }}</a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
 
-<section>
-  <h2><strong>read</strong></h2>
-  <ul>
-    {% for item in collections.read %}
-      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section>
-  <h2><strong>live</strong></h2>
-  <ul>
-    {% for item in collections.live %}
-      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section>
-  <h2><strong>watch</strong></h2>
-  <ul>
-    {% for item in collections.watch %}
-      <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
+</div>
