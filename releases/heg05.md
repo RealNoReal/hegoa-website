@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg05
+title: ol uz "ol uz" (heg05) - september 2022
 date: 2025-07-01
 tags: release
 permalink: /releases/heg05/

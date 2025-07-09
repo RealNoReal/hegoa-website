@@ -1,34 +1,41 @@
 module.exports = function (eleventyConfig) {
-  // Collections
-  eleventyConfig.addCollection("releases", (collectionApi) =>
-    collectionApi.getFilteredByGlob("./releases/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("radio", (collectionApi) =>
-    collectionApi.getFilteredByGlob("./radio/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("read", (collectionApi) =>
-    collectionApi.getFilteredByGlob("./read/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("watch", (collectionApi) =>
-    collectionApi.getFilteredByGlob("./watch/*.md").sort((a, b) => b.date - a.date)
-  );
-  eleventyConfig.addCollection("live", (collectionApi) =>
-    collectionApi.getFilteredByGlob("./live/*.md").sort((a, b) => b.date - a.date)
-  );
-
-  // Passthrough
   eleventyConfig.addPassthroughCopy("styles");
-  eleventyConfig.addPassthroughCopy("public");
-  eleventyConfig.addPassthroughCopy("admin");
+
+  eleventyConfig.addCollection("releases", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("releases/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
+  eleventyConfig.addCollection("radio", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("radio/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
+  eleventyConfig.addCollection("read", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("read/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
+  eleventyConfig.addCollection("live", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("live/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
+  eleventyConfig.addCollection("watch", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("watch/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
 
   return {
     dir: {
       input: ".",
       includes: "_includes",
-      output: "_site",
-    },
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk"
+      output: "_site"
+    }
   };
 };

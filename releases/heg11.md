@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg11
+title: dopelganger "sainen hildo" (heg09) - december 2023
 date: 2025-07-01
 tags: release
 permalink: /releases/heg11/

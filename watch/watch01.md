@@ -1,7 +1,7 @@
 ---
 layout: watch.njk
-title: watch01
-date: 2025-01-01
+title: sonar ciudades (xabier iriondo) - september 2006
+date: 2006-09-01
 tags: watch
 permalink: /watch/watch01/
 ---

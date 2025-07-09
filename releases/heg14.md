@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg14
+title: jmur "s/t" (heg014) - june 2025
 date: 2025-07-01
 tags: release
 permalink: /releases/heg14/

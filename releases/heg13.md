@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg13
+title: al karpenter "greatest heads" (heg013) - july 2025
 date: 2025-07-01
 tags: release
 permalink: /releases/heg13/

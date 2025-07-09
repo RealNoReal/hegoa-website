@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg04
+title: verde prato "jaikiera" (heg04) - may 2022
 date: 2025-07-01
 tags: release
 permalink: /releases/heg04/

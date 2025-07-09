@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg02
+title: carcascara "II" (heg02) - june 2022
 date: 2025-07-01
 tags: release
 permalink: /releases/heg02/

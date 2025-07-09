@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: heg07
+title: a.maiah "f(r)icciones" (heg07) - september 2023
 date: 2025-07-01
 tags: release
 permalink: /releases/heg07/
