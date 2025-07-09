@@ -6,16 +6,6 @@ tags: release
 permalink: /releases/heg06/
 ---
 
-date: 2025-07-01
-tags: release
-permalink: /release/heg06/
----
-
-date: 2025-07-01
-tags: release
-permalink: /release/heg06/
----
-
 home
 
 alberto lizarralde "haizetxe" (heg06) - march 2023

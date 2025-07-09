@@ -13,10 +13,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "release.njk" }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "Bandcamp Link", name: "bandcamp", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "live"
     label: "Live"
@@ -25,20 +23,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "live.njk" }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "Image", name: "image", widget: "image" }
-
-  - name: "watch"
-    label: "Watch"
-    folder: "watch"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "watch.njk" }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "Video Link", name: "video", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "radio"
     label: "Radio"
@@ -47,9 +33,9 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "radio.njk" }
-      - { label: "Description", name: "description", widget: "markdown" }
       - { label: "Audio Link", name: "audio", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "read"
     label: "Read"
@@ -58,6 +44,16 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "read.njk" }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "PDF", name: "pdf", widget: "file" }
+      - { label: "PDF Link", name: "pdf", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "watch"
+    label: "Watch"
+    folder: "watch"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

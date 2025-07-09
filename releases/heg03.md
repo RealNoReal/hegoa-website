@@ -6,16 +6,6 @@ tags: release
 permalink: /releases/heg03/
 ---
 
-date: 2025-07-01
-tags: release
-permalink: /release/heg03/
----
-
-date: 2025-07-01
-tags: release
-permalink: /release/heg03/
----
-
 home
 
 atanas akerstra "vol.1" (heg03) - july 2022

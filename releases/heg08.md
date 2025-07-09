@@ -6,15 +6,6 @@ tags: release
 permalink: /releases/heg08/
 ---
 
-date: 2025-07-01
-tags: release
-permalink: /release/heg08/
----
-
-date: 2025-07-01
-tags: release
-permalink: /release/heg08/
----
 
 home
 

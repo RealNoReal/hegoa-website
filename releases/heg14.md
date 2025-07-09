@@ -6,16 +6,6 @@ tags: release
 permalink: /releases/heg14/
 ---
 
-date: 2025-07-01
-tags: release
-permalink: /release/heg14/
----
-
-date: 2025-07-01
-tags: release
-permalink: /release/heg14/
----
-
 home
 
 jmur "s/t" (heg014) - june 2025

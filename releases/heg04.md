@@ -6,16 +6,6 @@ tags: release
 permalink: /releases/heg04/
 ---
 
-date: 2025-07-01
-tags: release
-permalink: /release/heg04/
----
-
-date: 2025-07-01
-tags: release
-permalink: /release/heg04/
----
-
 home
 
 verde prato "jaikiera" (heg04) - may 2022
