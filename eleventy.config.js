@@ -1,23 +1,25 @@
 module.exports = function(eleventyConfig) {
-  // Passthrough copy for static assets
+  // ✅ Copy styles/ folder to _site
   eleventyConfig.addPassthroughCopy("styles");
+
+  // ✅ Also passthrough assets if needed
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("admin");
 
-  // Add collections
-  eleventyConfig.addCollection("releases", (collection) =>
+  // ✅ Define collections
+  eleventyConfig.addCollection("releases", collection =>
     collection.getFilteredByGlob("./releases/*.md")
   );
-  eleventyConfig.addCollection("live", (collection) =>
+  eleventyConfig.addCollection("live", collection =>
     collection.getFilteredByGlob("./live/*.md")
   );
-  eleventyConfig.addCollection("radio", (collection) =>
+  eleventyConfig.addCollection("radio", collection =>
     collection.getFilteredByGlob("./radio/*.md")
   );
-  eleventyConfig.addCollection("read", (collection) =>
+  eleventyConfig.addCollection("read", collection =>
     collection.getFilteredByGlob("./read/*.md")
   );
-  eleventyConfig.addCollection("watch", (collection) =>
+  eleventyConfig.addCollection("watch", collection =>
     collection.getFilteredByGlob("./watch/*.md")
   );
 
