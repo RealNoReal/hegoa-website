@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: live.njk
 title: live03
 permalink: /live/live03/
 ---

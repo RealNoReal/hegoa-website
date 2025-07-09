@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: watch.njk
 title: watch01
 permalink: /watch/watch01/
 ---

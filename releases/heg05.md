@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: release.njk
 title: heg05
 permalink: /releases/heg05/
 ---
