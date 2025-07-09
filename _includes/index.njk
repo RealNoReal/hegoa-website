@@ -6,8 +6,8 @@
   <div class="entry-block">
     <div class="section-title">catalog</div>
     <div class="entries">
-      {% for item in collections.releases %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% for item in collections.releases | reverse %}
+        <a href="{{ item.url }}">{{ item.templateContent | striptags | truncate(120, true, "...") }}</a><br>
       {% endfor %}
     </div>
   </div>
@@ -15,8 +15,8 @@
   <div class="entry-block">
     <div class="section-title">radio</div>
     <div class="entries">
-      {% for item in collections.radio %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% for item in collections.radio | reverse %}
+        <a href="{{ item.url }}">{{ item.templateContent | striptags | truncate(120, true, "...") }}</a><br>
       {% endfor %}
     </div>
   </div>
@@ -24,8 +24,8 @@
   <div class="entry-block">
     <div class="section-title">read</div>
     <div class="entries">
-      {% for item in collections.read %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% for item in collections.read | reverse %}
+        <a href="{{ item.url }}">{{ item.templateContent | striptags | truncate(120, true, "...") }}</a><br>
       {% endfor %}
     </div>
   </div>
@@ -33,7 +33,7 @@
   <div class="entry-block">
     <div class="section-title">live</div>
     <div class="entries">
-      {% for item in collections.live %}
+      {% for item in collections.live | reverse %}
         <a href="{{ item.url }}">{{ item.data.title }}</a><br>
       {% endfor %}
     </div>
@@ -42,8 +42,8 @@
   <div class="entry-block">
     <div class="section-title">watch</div>
     <div class="entries">
-      {% for item in collections.watch %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% for item in collections.watch | reverse %}
+        <a href="{{ item.url }}">{{ item.templateContent | striptags | truncate(120, true, "...") }}</a><br>
       {% endfor %}
     </div>
   </div>
