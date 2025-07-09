@@ -1,33 +1,34 @@
-module.exports = function(eleventyConfig) {
-  // ✅ Copy styles/ folder to _site
-  eleventyConfig.addPassthroughCopy("styles");
+module.exports = function (eleventyConfig) {
+  // Collections
+  eleventyConfig.addCollection("releases", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./releases/*.md").sort((a, b) => b.date - a.date)
+  );
+  eleventyConfig.addCollection("radio", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./radio/*.md").sort((a, b) => b.date - a.date)
+  );
+  eleventyConfig.addCollection("read", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./read/*.md").sort((a, b) => b.date - a.date)
+  );
+  eleventyConfig.addCollection("watch", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./watch/*.md").sort((a, b) => b.date - a.date)
+  );
+  eleventyConfig.addCollection("live", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./live/*.md").sort((a, b) => b.date - a.date)
+  );
 
-  // ✅ Also passthrough assets if needed
+  // Passthrough
+  eleventyConfig.addPassthroughCopy("styles");
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("admin");
-
-  // ✅ Define collections
-  eleventyConfig.addCollection("releases", collection =>
-    collection.getFilteredByGlob("./releases/*.md")
-  );
-  eleventyConfig.addCollection("live", collection =>
-    collection.getFilteredByGlob("./live/*.md")
-  );
-  eleventyConfig.addCollection("radio", collection =>
-    collection.getFilteredByGlob("./radio/*.md")
-  );
-  eleventyConfig.addCollection("read", collection =>
-    collection.getFilteredByGlob("./read/*.md")
-  );
-  eleventyConfig.addCollection("watch", collection =>
-    collection.getFilteredByGlob("./watch/*.md")
-  );
 
   return {
     dir: {
       input: ".",
       includes: "_includes",
-      output: "_site"
-    }
+      output: "_site",
+    },
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk"
   };
 };
