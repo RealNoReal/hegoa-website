@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: dopelganger "sainen hildo" (heg09) - december 2023
+title: pascal gaigne "iguzki hauskar" (heg010) - july 2024
 date: 2025-07-01
 tags: release
 permalink: /releases/heg10/

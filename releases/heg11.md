@@ -1,6 +1,6 @@
 ---
 layout: release.njk
-title: dopelganger "sainen hildo" (heg09) - december 2023
+title: iker munduate "argi zantzuak" (heg011) - october 2024
 date: 2025-07-01
 tags: release
 permalink: /releases/heg11/
