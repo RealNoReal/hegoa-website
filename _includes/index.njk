@@ -3,19 +3,14 @@
 </div>
 
 <div class="column">
-
-  {% for collection in ['releases', 'radio', 'read', 'live', 'watch'] %}
+  {% for block in ["releases", "radio", "read", "live", "watch"] %}
     <div class="entry-block">
-      <div class="section-title">{{ collection }}</div>
+      <div class="section-title">{{ block == "releases" ? "catalog" : block }}</div>
       <div class="entries">
-        {% assign sorted = collections[collection] | reverse %}
-        {% for item in sorted %}
-          <div>
-            <a href="{{ item.url }}">{{ item.data.title }}</a>
-          </div>
+        {% for item in collections[block] | reverse %}
+          <a href="{{ item.url }}">{{ item.templateContent | strip | truncate(90, true, "...") }}</a>
         {% endfor %}
       </div>
     </div>
   {% endfor %}
-
 </div>
