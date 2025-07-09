@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/styles/main.css">
-</head>
-<body>
-  <main>
-    {% block content %}{% endblock %}
-  </main>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ title or "Hegoa" }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
 </html>
