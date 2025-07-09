@@ -1,6 +1,8 @@
----
-layout: base.njk
----
-<h1>{{ title }}</h1>
-<img src="{{ image }}" alt="{{ title }}">
-<p>{{ description }}</p>
+{% extends "base.njk" %}
+{% block content %}
+  <div class="page-content heg">
+    <a class="home-link" href="/">← back to home</a>
+    <h1>{{ title }}</h1>
+    {{ content | safe }}
+  </div>
+{% endblock %}

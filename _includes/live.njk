@@ -1,21 +1,8 @@
 {% extends "base.njk" %}
-
 {% block content %}
-<div class="page-content">
-  <a class="home-link" href="/">← back to home</a>
-
-  <h1>{{ title }}</h1>
-
-  {% if image %}
-    <img src="{{ image }}" alt="{{ title }}">
-  {% endif %}
-
-  {{ description | safe }}
-
-  {% if bandcamp %}
-    <iframe style="border: 0; width: 400px; height: 120px;" src="{{ bandcamp }}" seamless>
-      <a href="{{ bandcamp }}">Listen</a>
-    </iframe>
-  {% endif %}
-</div>
+  <div class="page-content live">
+    <a class="home-link" href="/">← back to home</a>
+    <h1>{{ title }}</h1>
+    {{ content | safe }}
+  </div>
 {% endblock %}

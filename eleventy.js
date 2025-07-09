@@ -1,14 +1,31 @@
 module.exports = function(eleventyConfig) {
   // Passthrough copy for static assets
-  eleventyConfig.addPassthroughCopy("styles");   // main.css and other styles
-  eleventyConfig.addPassthroughCopy("public");   // images, PDFs, etc.
-  eleventyConfig.addPassthroughCopy("admin");    // Netlify CMS admin panel if used
+  eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy("admin");
+
+  // Add collections
+  eleventyConfig.addCollection("releases", (collection) =>
+    collection.getFilteredByGlob("./releases/*.md")
+  );
+  eleventyConfig.addCollection("live", (collection) =>
+    collection.getFilteredByGlob("./live/*.md")
+  );
+  eleventyConfig.addCollection("radio", (collection) =>
+    collection.getFilteredByGlob("./radio/*.md")
+  );
+  eleventyConfig.addCollection("read", (collection) =>
+    collection.getFilteredByGlob("./read/*.md")
+  );
+  eleventyConfig.addCollection("watch", (collection) =>
+    collection.getFilteredByGlob("./watch/*.md")
+  );
 
   return {
     dir: {
-      input: ".",             // root directory for source files
-      includes: "_includes",  // layout and partials folder
-      output: "_site"         // output folder for Netlify
+      input: ".",
+      includes: "_includes",
+      output: "_site"
     }
   };
 };
