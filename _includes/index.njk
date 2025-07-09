@@ -1,19 +1,50 @@
----
-title: hegoa
-layout: base.njk
----
-
-<div class="main-text">
+<div class="intro">
   Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
 </div>
 
-{% for block in ["releases", "radio", "read", "live", "watch"] %}
+<div class="column">
   <div class="entry-block">
-    <div class="section-title">{{ block == "releases" ? "catalog" : block }}</div>
+    <div class="section-title">catalog</div>
     <div class="entries">
-      {% for item in collections[block] | reverse %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% for item in collections.releases %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
       {% endfor %}
     </div>
   </div>
-{% endfor %}
+
+  <div class="entry-block">
+    <div class="section-title">radio</div>
+    <div class="entries">
+      {% for item in collections.radio %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">read</div>
+    <div class="entries">
+      {% for item in collections.read %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">live</div>
+    <div class="entries">
+      {% for item in collections.live %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">watch</div>
+    <div class="entries">
+      {% for item in collections.watch %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a><br>
+      {% endfor %}
+    </div>
+  </div>
+</div>
