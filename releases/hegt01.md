@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: estralurtarrak "another frontline compilation" (heg-t01) - october 2021
-date: 2025-07-01
+date: 2021-10-01
 tags: release
 permalink: /releases/hegt01/
 ---
