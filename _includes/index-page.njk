@@ -1,31 +1,46 @@
-{% extends "base.njk" %}
-{% block content %}
-
-<div class="main">
-  <div class="intro">
-    hegoa is a record label and cultural platform based in the basque country. it releases vinyl, tapes and printed matter, curates concerts and radio sessions. it is interested in contemporary basque music and sound heritage, as well as underground movements from the iberian peninsula and beyond.
+<div class="column">
+  <div class="entry-block">
+    <div class="section-title">catalog</div>
+    <div class="entries">
+      {% for item in collections.releases %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
   </div>
 
-  {% for block in ["releases", "radio", "read", "live", "watch"] %}
-    <div class="entry-block">
-      <div class="section-title">
-        {% if block == "releases" %}
-          catalog
-        {% else %}
-          {{ block }}
-        {% endif %}
-      </div>
-      <div class="entries">
-        {% for item in collections[block] | reverse %}
-          {% if item.data.external_url %}
-            <a href="{{ item.data.external_url }}" target="_blank">{{ item.data.title }}</a>
-          {% else %}
-            <a href="{{ item.url }}">{{ item.data.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+  <div class="entry-block">
+    <div class="section-title">radio</div>
+    <div class="entries">
+      {% for item in collections.radio %}
+        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
+      {% endfor %}
     </div>
-  {% endfor %}
-</div>
+  </div>
 
-{% endblock %}
+  <div class="entry-block">
+    <div class="section-title">read</div>
+    <div class="entries">
+      {% for item in collections.read %}
+        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">live</div>
+    <div class="entries">
+      {% for item in collections.live %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">watch</div>
+    <div class="entries">
+      {% for item in collections.watch %}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
