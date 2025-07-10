@@ -46,7 +46,7 @@ main {
   flex-direction: column;
 }
 
-/* Entry links */
+/* Entry links (homepage) */
 .entries a {
   display: inline-block;
   position: relative;
@@ -55,7 +55,7 @@ main {
   margin-bottom: 0.2rem;
 }
 
-/* Underline animation on hover */
+/* Underline animation on hover (homepage) */
 .entries a::after {
   content: "";
   position: absolute;
@@ -79,12 +79,6 @@ main {
   color: black;
   margin: 2rem;
   max-width: 800px;
-}
-
-.page-content .home-link {
-  font-weight: bold;
-  display: inline-block;
-  margin-bottom: 1rem;
 }
 
 .page-content img {
@@ -126,4 +120,29 @@ main {
   width: 100%;
   height: auto;
   display: block;
+}
+
+/* Styled "home" link on release pages (same as homepage links) */
+.page-content .home-link {
+  position: relative;
+  font-weight: normal;
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 0.2rem;
+}
+
+.page-content .home-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 1px;
+  width: 0;
+  background-color: black;
+  transition: width 0.3s ease;
+}
+
+.page-content .home-link:hover::after {
+  width: 100%;
 }
