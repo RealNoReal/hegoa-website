@@ -2,9 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>hegoa</title>
-    <link rel="stylesheet" href="/styles/main.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title or "hegoa" }}</title>
+
+    {# Make sure main.css is in /styles/ directory #}
+    <link rel="stylesheet" href="/styles/main.css" />
+
+    <link rel="icon" type="image/png" href="/public/favicon.png" />
   </head>
   <body>
     <main>
