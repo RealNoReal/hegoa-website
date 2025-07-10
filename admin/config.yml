@@ -6,7 +6,7 @@ media_folder: "public/assets"
 public_folder: "/assets"
 
 collections:
-  - name: "releases"
+  - name: "release"
     label: "Releases"
     folder: "releases"
     create: true
@@ -15,7 +15,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["releases"] }
 
   - name: "radio"
     label: "Radio"
@@ -25,8 +24,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "External URL", name: "external_url", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["radio"] }
+      - { label: "External Link", name: "external", widget: "string" }
 
   - name: "read"
     label: "Read"
@@ -36,8 +34,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "External URL", name: "external_url", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["read"] }
+      - { label: "External Link", name: "external", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
   - name: "live"
     label: "Live"
@@ -48,7 +46,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["live"] }
 
   - name: "watch"
     label: "Watch"
@@ -58,5 +55,4 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "External URL", name: "external_url", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["watch"] }
+      - { label: "Body", name: "body", widget: "markdown" }
