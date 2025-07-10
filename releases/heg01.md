@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg01/
 ---
 
-home
+[home](/)
 
 angel katarain "angel katarain" (heg01) - march 2021
 
