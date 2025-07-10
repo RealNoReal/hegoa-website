@@ -1,20 +1,31 @@
-<div class="intro">
-  <p>
-    Hegoa is a record label, live series and publishing platform focused on experimental, traditional and underground music.
-  </p>
+{% extends "base.njk" %}
+{% block content %}
+
+<div class="main">
+  <div class="intro">
+    hegoa is a record label and cultural platform based in the basque country. it releases vinyl, tapes and printed matter, curates concerts and radio sessions. it is interested in contemporary basque music and sound heritage, as well as underground movements from the iberian peninsula and beyond.
+  </div>
+
+  {% for block in ["releases", "radio", "read", "live", "watch"] %}
+    <div class="entry-block">
+      <div class="section-title">
+        {% if block == "releases" %}
+          catalog
+        {% else %}
+          {{ block }}
+        {% endif %}
+      </div>
+      <div class="entries">
+        {% for item in collections[block] | reverse %}
+          {% if item.data.external_url %}
+            <a href="{{ item.data.external_url }}" target="_blank">{{ item.data.title }}</a>
+          {% else %}
+            <a href="{{ item.url }}">{{ item.data.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
 </div>
 
-{% for block in ["releases", "radio", "read", "live", "watch"] %}
-  <div class="entry-block">
-    <div class="section-title">{{ block == "releases" ? "catalog" : block }}</div>
-    <div class="entries">
-      {% for item in collections[block] | sort(attribute="data.date") | reverse %}
-        {% if item.data.external_url %}
-          <a href="{{ item.data.external_url }}" target="_blank">{{ item.data.title }}</a>
-        {% else %}
-          <a href="{{ item.url }}">{{ item.data.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-{% endfor %}
+{% endblock %}
