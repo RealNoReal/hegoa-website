@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: iker munduate "argi zantzuak" (heg011) - october 2024
-date: 2025-07-01
+date: 2024-10-01
 tags: release
 permalink: /releases/heg11/
 ---

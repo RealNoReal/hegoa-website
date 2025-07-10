@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: pascal gaigne "iguzki hauskar" (heg010) - july 2024
-date: 2025-07-01
+date: 2024-07-01
 tags: release
 permalink: /releases/heg10/
 ---

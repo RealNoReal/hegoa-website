@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: atanas akerstra "vol.1" (heg03) - july 2022
-date: 2025-07-01
+date: 2022-07-01
 tags: release
 permalink: /releases/heg03/
 ---

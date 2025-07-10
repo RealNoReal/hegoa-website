@@ -1,7 +1,7 @@
 ---
 layout: live.njk
 title: hegoa x nahas mahas - saint jean de luz, france - 27 december 24
-date: 2025-05-01
+date: 2024-12-27
 tags: live
 permalink: /live/live03/
 ---

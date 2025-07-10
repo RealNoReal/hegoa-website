@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: angel katarain "angel katarain" (heg01) - march 2021
-date: 2025-07-01
+date: 2021-03-01
 tags: release
 permalink: /releases/heg01/
 ---

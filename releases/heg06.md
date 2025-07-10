@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: alberto lizarralde "haizetxe" (heg06) - march 2023
-date: 2025-07-01
+date: 2023-03-01
 tags: release
 permalink: /releases/heg06/
 ---

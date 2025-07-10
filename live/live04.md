@@ -1,7 +1,7 @@
 ---
 layout: live.njk
 title: hegoa x cafe oto - london - 13 august 24
-date: 2025-05-01
+date: 2024-08-13
 tags: live
 permalink: /live/live04/
 ---

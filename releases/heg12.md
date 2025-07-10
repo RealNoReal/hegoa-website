@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: joseba irazoki "gitarra onomatopeikoa II" (heg012) - march 2025
-date: 2025-07-01
+date: 2025-03-01
 tags: release
 permalink: /releases/heg12/
 ---

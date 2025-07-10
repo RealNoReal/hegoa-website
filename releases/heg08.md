@@ -1,7 +1,7 @@
 ---
 layout: release.njk
 title: bidai "biarrezgaur" (heg08) - december 2023
-date: 2025-07-01
+date: 2023-12-01
 tags: release
 permalink: /releases/heg08/
 ---
