@@ -23,5 +23,3 @@ OL UZ project was recorded in October 2021, inside a water tank at a macro housi
       OL UZ de OL UZ
      </a>
 </iframe>
-
-OL UZ de OL UZ

@@ -26,5 +26,3 @@ alberto lizarralde "haizetxe" (heg06) - march 2023
       Haizetxe de Alberto Lizarralde
      </a>
 </iframe>
-
-Haizetxe de Alberto Lizarralde

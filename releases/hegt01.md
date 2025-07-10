@@ -17,5 +17,3 @@ Estralurtarrak (Extraterrestrials) was a hardcore techno-pop band that emerged i
             Years later, some of their members formed Bigarren Aukera, another almost unknown electropop band that barely had any repercussion. No more information could be found regarding this strange group of Estralurtarrak.
 
 <iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3942836647/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 100%; height: 120px;"><a href="https://hegoadiskak.bandcamp.com/album/estralurtarrak-another-frontline-compilation-94-00">Estralurtarrak - Another Frontline Compilation 94/00 de Estralurtarrak</a></iframe>
-
-Estralurtarrak - Another Frontline Compilation 94/00 de Estralurtarrak

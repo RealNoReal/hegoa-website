@@ -1,10 +1,6 @@
 ---
+title: soundohm, bradford bailey - september 2024
+date: 2024-09-01
+external_url: /assets/soundohm.pdf
 layout: read.njk
-title: read05
-date: 2025-06-01
-tags: read
-permalink: /read/read05/
 ---
-
-
-Reading material related to Hegoa.

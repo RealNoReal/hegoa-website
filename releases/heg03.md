@@ -27,5 +27,3 @@ Cosmic proto-blues. Atanas Akerstra is the solo project of Rogelio Astigarraga.
       Atanas Akerstra Vol. 1 de Hegoa
      </a>
 </iframe>
-
-Atanas Akerstra Vol. 1 de Hegoa

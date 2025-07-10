@@ -24,5 +24,3 @@ Oddball electronic / studio experiments halfway between a deserted dance floor a
      Carcascara II de Carcascara
     </a>
 </iframe>
-
-Carcascara II de Carcascara

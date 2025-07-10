@@ -23,5 +23,3 @@ This is a compilation of recordings made at different stages in Jmur’s life. T
       s/t de Jmur
      </a>
 </iframe>
-
-s/t de Jmur

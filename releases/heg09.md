@@ -27,5 +27,3 @@ Dopelganger is the project in collaboration between classically trained accordio
       Sainen Hildo de Dopelganger
      </a>
 </iframe>
-
-Sainen Hildo de Dopelganger

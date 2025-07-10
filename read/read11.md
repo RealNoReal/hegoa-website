@@ -1,10 +1,6 @@
 ---
+title: argia - kepa matxain, may 2021
+date: 2021-05-01
+external_url: https://www.argia.eus/argia-astekaria/2734/mikel-acosta
 layout: read.njk
-title: read11
-date: 2025-06-01
-tags: read
-permalink: /read/read11/
 ---
-
-
-Reading material related to Hegoa.

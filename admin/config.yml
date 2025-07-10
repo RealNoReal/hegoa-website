@@ -3,7 +3,7 @@ backend:
   branch: main
 
 media_folder: "public/assets"
-public_folder: "/public/assets"
+public_folder: "/assets"
 
 collections:
   - name: "releases"
@@ -15,6 +15,29 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["releases"] }
+
+  - name: "radio"
+    label: "Radio"
+    folder: "radio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "External URL", name: "external_url", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["radio"] }
+
+  - name: "read"
+    label: "Read"
+    folder: "read"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "External URL", name: "external_url", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["read"] }
 
   - name: "live"
     label: "Live"
@@ -25,28 +48,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "radio"
-    label: "Radio"
-    folder: "radio"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Audio Link", name: "audio", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "read"
-    label: "Read"
-    folder: "read"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "PDF Link", name: "pdf", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["live"] }
 
   - name: "watch"
     label: "Watch"
@@ -56,4 +58,5 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "External URL", name: "external_url", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["watch"] }

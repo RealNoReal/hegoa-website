@@ -24,5 +24,3 @@ iker munduate "argi zantzuak" (heg011) - october 2024
       Argi Zantzuak de Iker Munduate
      </a>
 </iframe>
-
-Argi Zantzuak de Iker Munduate

@@ -1,10 +1,6 @@
 ---
-layout: radio.njk
-title: radio04
-date: 2025-06-05
+title: nts hegoa w/ fiesta en el vacío – 17 september 2024
+date: 2024-09-17
 tags: radio
-permalink: /radio/radio04/
+external_url: https://www.nts.live/shows/hegoa/episodes/hegoa-w-fiesta-en-el-vacio-17th-september-2024
 ---
-
-
-Radio appearance or session.

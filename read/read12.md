@@ -1,10 +1,6 @@
 ---
+title: berria - itziar ugarte, april 2021
+date: 2021-04-01
+external_url: https://www.berria.eus/kultura/ertzetako-musika-hegaldiak_1291615_102.html
 layout: read.njk
-title: read12
-date: 2025-06-01
-tags: read
-permalink: /read/read12/
 ---
-
-
-Reading material related to Hegoa.

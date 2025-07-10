@@ -24,5 +24,3 @@ Biarrezgaur (not tomorrow, today) is a blissful and misty set of guitar tones en
      Limited edition of 300 black vinyl LP’s housed in a coloured matt laminated cover designed between Xabi Strubell, Mikel Vega & Mikel Acosta.
 
 <iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=1479468834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 100%; height: 120px;"><a href="https://hegoadiskak.bandcamp.com/album/biarrezgaur">Biarrezgaur de Bidai</a></iframe>
-
-Biarrezgaur de Bidai

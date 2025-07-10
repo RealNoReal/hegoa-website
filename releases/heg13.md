@@ -29,5 +29,3 @@ Al Karpenter expands on their Post-Genre Punk approach reaching a new level of m
       Greatest Heads de Al Karpenter
      </a>
 </iframe>
-
-Greatest Heads de Al Karpenter

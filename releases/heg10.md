@@ -24,5 +24,3 @@ pascal gaigne "iguzki hauskar" (heg010) - july 2024
       Iguzki Hauskara de Pascal Gaigne
      </a>
 </iframe>
-
-Iguzki Hauskara de Pascal Gaigne

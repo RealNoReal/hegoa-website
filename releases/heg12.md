@@ -58,5 +58,3 @@ joseba irazoki "gitarra onomatopeikoa II" (heg012) - march 2025
       Gitarra Onomatopeikoa II de Joseba Irazoki
      </a>
 </iframe>
-
-Gitarra Onomatopeikoa II de Joseba Irazoki

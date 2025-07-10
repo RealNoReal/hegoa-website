@@ -19,5 +19,3 @@ verde prato "jaikiera" (heg04) - may 2022
       Jaikiera de Verde Prato
      </a>
 </iframe>
-
-Jaikiera de Verde Prato

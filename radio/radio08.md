@@ -1,9 +1,6 @@
 ---
-layout: radio.njk
-title: radio08
-date: 2025-06-05
+title: radio relativa w/ hegoa – 29 november 2021
+date: 2021-11-29
 tags: radio
-permalink: /radio/radio08/
+external_url: https://radiorelativa.eu/episode/hegoa-diskak
 ---
-
-Radio appearance or session.

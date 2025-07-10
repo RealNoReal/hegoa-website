@@ -1,10 +1,6 @@
 ---
-layout: read.njk
-title: read01
+title: the wire, #496 - june 2025
 date: 2025-06-01
-tags: read
-permalink: /read/read01/
+external_url: /assets/wire2.pdf
+layout: read.njk
 ---
-
-
-Reading material related to Hegoa.
