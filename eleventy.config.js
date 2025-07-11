@@ -1,6 +1,11 @@
 module.exports = function (eleventyConfig) {
+  // ✅ Copy styles folder
   eleventyConfig.addPassthroughCopy("styles");
 
+  // ✅ Copy public/assets to /assets in output
+  eleventyConfig.addPassthroughCopy({ "public/assets": "assets" });
+
+  // ✅ Content collections
   eleventyConfig.addCollection("releases", function (collectionApi) {
     return collectionApi.getFilteredByGlob("releases/*.md").sort((a, b) => {
       return b.date - a.date;
