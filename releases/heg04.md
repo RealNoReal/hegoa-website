@@ -10,7 +10,7 @@ permalink: /releases/heg04/
 
 verde prato "jaikiera" (heg04) - may 2022
 
-![Jaikiera](../public/assets/Heg04_A.webp)
+![Jaikiera](/assets/Heg04_A.webp)
 
 “Jaikiera” by Verde Prato recovers Basque oral tradition through modern lenses. Ana Arsuaga’s reverb-soaked drum machines and synths transform traditional folk stories into dreamy, ethereal pop songs. Recorded after her acclaimed debut, this two-song 7" is a haunting continuation of her exploration of Basque heritage.
 

@@ -10,7 +10,7 @@ permalink: /releases/heg09/
 
 dopelganger "sainen hildo" (heg09) - december 2023
 
-![Sainen Hildo](../public/assets/Heg09_A.webp)
+![Sainen Hildo](/assets/Heg09_A.webp)
 
 Dopelganger is the project in collaboration between classically trained accordion player and singer Garazi Navas (Usansolo, Bizkaia-Biscay, 1995) and Miguel A. Garcia (Vitoria-Gasteiz), an artist living in Bilbao with an extensive career in the fields of experimental music and sound art.
 

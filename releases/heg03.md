@@ -10,7 +10,7 @@ permalink: /releases/heg03/
 
 atanas akerstra "vol.1" (heg03) - july 2022
 
-![Atanas Akerstra Vol.1](../public/assets/Heg03_A.webp)
+![Atanas Akerstra Vol.1](/assets/Heg03_A.webp)
 
 Cosmic proto-blues. Atanas Akerstra is the solo project of Rogelio Astigarraga.
 

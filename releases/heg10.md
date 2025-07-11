@@ -10,7 +10,7 @@ permalink: /releases/heg10/
 
 pascal gaigne "iguzki hauskar" (heg010) - july 2024
 
-![Iguzki Hauskara](../public/assets/Heg10_A.webp)
+![Iguzki Hauskara](/assets/Heg10_A.webp)
 
 “Iguzki Hauskara by Pascal Gaigne, combines Basque Folk oral tradition, Spanish guitar and Contemporary Classical minimal compositions in equal parts. Beautifully haunting, wondrous and expansive, this record speaks to the spirit. A timeless document that befits situations and sceneries that existed long before this record was made. A pivotal moment in Pascal’s career, highest possible recommendation for fans of 80’s counterpart instrumentalists like Luis Paniagua, Wim Mertens’s Soft Verdict, Albert Gimenez or Pep Llopis”
 

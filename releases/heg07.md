@@ -10,7 +10,7 @@ permalink: /releases/heg07/
 
 a.maiah "f(r)icciones" (heg07) - september 2023
 
-![F(r)icciones](../public/assets/Heg07_A.webp)
+![F(r)icciones](/assets/Heg07_A.webp)
 
 “F(r)icciones is a complicated
      piece of miscellaneous works. A set

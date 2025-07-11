@@ -11,7 +11,7 @@ permalink: /releases/heg11/
 
 iker munduate "argi zantzuak" (heg011) - october 2024
 
-![Argi Zantzuak](../public/assets/Heg11_A.webp)
+![Argi Zantzuak](/assets/Heg11_A.webp)
 
 “Heavily influenced by 80's ambient & New Age music from Japan & Spain, (fans of Hiroshi Yoshimura, Finis Africae, Suso Saiz or Fumio Miyashita will feel at ease here) Iker Munduate presents 12 compositions of highly serene & contemplative minimal ambient music. Wind blowing through the trees, raindrops rolling down the windows, the sounds presented on this album are meant to complete the environment you are in. Filled with subtle textures and soothing harmonic content, the music blends into the patterns of day to day life, accompanying us within an already existing familiar landscape. Therefore, it is recommended to listen to this record on speakers allowing it to mix with the sounds already present in our surroundings.”
 

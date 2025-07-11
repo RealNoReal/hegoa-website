@@ -10,7 +10,7 @@ permalink: /releases/hegt01/
 
 estralurtarrak "another frontline compilation" (heg-t01) - october 2021
 
-![estralurtarrak](../public/assets/Hegt01_A.webp)
+![estralurtarrak](/assets/Hegt01_A.webp)
 
 Estralurtarrak (Extraterrestrials) was a hardcore techno-pop band that emerged in the city of Pamplona in the north of Spain during the 90's.
             At that time, the members mentioned Os resentidos, Pet Shop Boys, Hemendik At! or David Bowie on his Berlin years as their influences.

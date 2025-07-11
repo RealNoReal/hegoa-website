@@ -10,7 +10,7 @@ permalink: /releases/heg13/
 
 al karpenter "greatest heads" (heg013) - july 2025
 
-![Greatest Heads](../public/assets/Heg13_A.webp)
+![Greatest Heads](/assets/Heg13_A.webp)
 
 Al Karpenter expands on their Post-Genre Punk approach reaching a new level of maturity. In fact, we can say that “Greatest Heads” is Al Karpenter’s “Remain in Light” from Talking Heads in the sense that it is also their fourth record, heavily based on production and is influenced by Afrobeat in distorted ways.
 

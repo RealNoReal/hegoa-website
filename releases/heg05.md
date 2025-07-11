@@ -11,7 +11,7 @@ permalink: /releases/heg05/
 
 ol uz "ol uz" (heg05) - september 2022
 
-![OL UZ](../public/assets/Heg05_A.webp)
+![OL UZ](/assets/Heg05_A.webp)
 
 OL UZ project was recorded in October 2021, inside a water tank at a macro housing development abandoned in 2011 in Manduliz, close to Bilbao's airport.
      A 500+ housing plan including a golf club and a retail park turned into a "Chernobyl", after it was dumped half way through its construction, it's now the layout for this two Basque improvisers to put together a bold recital with just two instruments.

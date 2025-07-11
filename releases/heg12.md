@@ -11,7 +11,7 @@ permalink: /releases/heg12/
 
 joseba irazoki "gitarra onomatopeikoa II" (heg012) - march 2025
 
-![Gitarra Onomatopeikoa II](../public/assets/Heg12_A.webp)
+![Gitarra Onomatopeikoa II](/assets/Heg12_A.webp)
 
 “Onomatopeikoa II” follows on from
      Irazoki's 2017 Gitarra Onomatopeikoa

@@ -10,7 +10,7 @@ permalink: /releases/heg14/
 
 jmur "s/t" (heg014) - june 2025
 
-![s/t](../public/assets/Heg14_A.webp)
+![s/t](/assets/Heg14_A.webp)
 
 This is a compilation of recordings made at different stages in Jmur’s life. The first section takes us from what could have been a private pressed loner folk piece recorded in Denver, Colorado in 1979, straight into a passage from a somewhat imaginary sci-fi planet from a 70’s B-movie. Acoustic folk merges into cosmic new age and lands into psych pop. Nostalgic spacy lullabies meet beloved diy pop dreams that become part of that pastoral landscape that has always existed somewhere in your memory. The record navigates that trend with ease, jumping from South American infused guitar tones into space ambient, to meet us halfway with a My Bloody Valentine cover from your wonky average school band. The teen spirit is still alive!
 

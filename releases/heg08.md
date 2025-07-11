@@ -11,7 +11,7 @@ permalink: /releases/heg08/
 
 bidai "biarrezgaur" (heg08) - december 2023
 
-![Bidai](../public/assets/Heg08_A.webp)
+![Bidai](/assets/Heg08_A.webp)
 
 Biarrezgaur (not tomorrow, today) is a blissful and misty set of guitar tones entangled with effects and reverberation. Dreamy and reflective proto-blues-folk sketches that suggest a sense of matured serenity that only comes with years of practice. Spontaneous, gentle and free-flowing in equal parts, Biarrezgaur is a perfect autumnal recipe for those looking in the direction of Six Organs of Admittance, Loren Connors with Alan Licht, or even Robbie Basho or Albert Gimenez if you listen to the closing track Itzulera.
 

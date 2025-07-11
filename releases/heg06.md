@@ -10,7 +10,7 @@ permalink: /releases/heg06/
 
 alberto lizarralde "haizetxe" (heg06) - march 2023
 
-![Haizetxe](../public/assets/Heg06_A.webp)
+![Haizetxe](/assets/Heg06_A.webp)
 
 “Timeless minimalistic approach to composition braced by repetition and playfulness. Alberto’s music reflects calm, focus and intimacy. Ethereal and atmospheric, his pieces operate within the digital as well as the analogue realm in equal measures. Sampling, Midi sequencing and field recordings are the instrumentation used in these 15 songs recorded on a four track reel to reel tape. Highest possible recommendation for fans of Suso Saiz, Jon Hassel, Eno or Harold Budd”
      “Haizetxe” which stands for wind house, is the first ever record consisting of unreleased material recorded between mid 80’s and 90’s by musician Alberto Lizarralde in Zaldibia, Basque Country.
