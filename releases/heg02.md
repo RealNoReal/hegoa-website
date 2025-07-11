@@ -6,12 +6,11 @@ tags: release
 permalink: /releases/heg02/
 ---
 
-
-home
+<p><a href="/" class="home-link">home</a></p>
 
 carcascara "II" (heg02) - june 2022
 
-![Carcascara II](../public/assets/Heg02_A.webp)
+![Carcascara II](/assets/Heg02_A.webp)
 
 Oddball electronic / studio experiments halfway between a deserted dance floor and a cinematic experience. Distant voices and distorted electric guitars depict the influence of early coldwave, post-punk and German electronic experimentalists. For fans of Tuxedomoon, Algebra Suicide, Pascal Comelade or the elusive side of Patrick Cowley.
 
