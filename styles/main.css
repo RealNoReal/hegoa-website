@@ -103,11 +103,7 @@ main {
 }
 
 /* Catalog/release pages: square thumbnail */
-.page-content.heg img {
-  max-width: 40%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-}
+
 
 /* Grid layout for live pages */
 .live-album-grid {
@@ -145,4 +141,12 @@ main {
 
 .page-content .home-link:hover::after {
   width: 100%;
+}
+
+/* Universal responsive images */
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
