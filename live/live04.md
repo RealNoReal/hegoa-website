@@ -10,7 +10,7 @@ permalink: /live/live04/
 
 hegoa x cafe oto - london - 13 august 24
 
-![photo](/public/assets/live4_0.webp)
-![photo](/public/assets/live4_1.webp)
-![photo](/public/assets/live4_2.webp)
-![photo](/public/assets/live4_3.webp)
+![photo](/assets/live4_0.webp)
+![photo](/assets/live4_1.webp)
+![photo](/assets/live4_2.webp)
+![photo](/assets/live4_3.webp)

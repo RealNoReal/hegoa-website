@@ -10,7 +10,7 @@ permalink: /live/live01/
 
 hegoa x kampai - bilbao, eh - 21 december 23
 
-![photo](/public/assets/live1_0.webp)
-![photo](/public/assets/live1_1.webp)
-![photo](/public/assets/live1_2.webp)
-![photo](/public/assets/live1_3.webp)
+![photo](/assets/live1_0.webp)
+![photo](/assets/live1_1.webp)
+![photo](/assets/live1_2.webp)
+![photo](/assets/live1_3.webp)

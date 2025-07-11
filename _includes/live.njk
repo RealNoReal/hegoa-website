@@ -1,8 +1,7 @@
 {% extends "base.njk" %}
+
 {% block content %}
-  <div class="page-content live">
-    <a class="home-link" href="/">← back to home</a>
-    <h1>{{ title }}</h1>
+  <div class="page-content">
     {{ content | safe }}
   </div>
 {% endblock %}

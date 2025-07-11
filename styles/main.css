@@ -77,15 +77,16 @@ main {
   font-size: 15.3px;
   line-height: 1.5;
   color: black;
-  margin: 2rem;
+  margin: 2rem auto;
   max-width: 800px;
 }
 
+/* Responsive image fix */
 .page-content img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 2rem;
+  margin: 20px auto;
 }
 
 .page-content h1 {
@@ -101,9 +102,6 @@ main {
   margin-top: 1rem;
   max-width: 100%;
 }
-
-/* Catalog/release pages: square thumbnail */
-
 
 /* Grid layout for live pages */
 .live-album-grid {
@@ -141,12 +139,4 @@ main {
 
 .page-content .home-link:hover::after {
   width: 100%;
-}
-
-/* Universal responsive images */
-.page-content img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
 }
