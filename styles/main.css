@@ -135,7 +135,7 @@ main {
 
 /* ✅ UNIVERSAL IMAGE FIX — applies to all <img> elements on the site */
 img {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
   display: block;
   margin: 20px auto;
