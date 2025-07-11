@@ -81,14 +81,6 @@ main {
   max-width: 800px;
 }
 
-/* Responsive image fix */
-.page-content img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-}
-
 .page-content h1 {
   font-size: 1.3rem;
   margin-bottom: 2rem;
@@ -139,4 +131,12 @@ main {
 
 .page-content .home-link:hover::after {
   width: 100%;
+}
+
+/* ✅ UNIVERSAL IMAGE FIX — applies to all <img> elements on the site */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
