@@ -5,6 +5,9 @@ module.exports = function (eleventyConfig) {
   // ✅ Copy public/assets to /assets in output
   eleventyConfig.addPassthroughCopy({ "public/assets": "assets" });
 
+  // ✅ Copy admin panel for Decap CMS
+  eleventyConfig.addPassthroughCopy("admin");
+
   // ✅ Content collections
   eleventyConfig.addCollection("releases", function (collectionApi) {
     return collectionApi.getFilteredByGlob("releases/*.md").sort((a, b) => {
