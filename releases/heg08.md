@@ -7,7 +7,7 @@ permalink: /releases/heg08/
 ---
 
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 bidai "biarrezgaur" (heg08) - december 2023
 

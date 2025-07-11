@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg07/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 a.maiah "f(r)icciones" (heg07) - september 2023
 

@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg14/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 jmur "s/t" (heg014) - june 2025
 

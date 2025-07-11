@@ -6,7 +6,7 @@ tags: live
 permalink: /live/live01/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 hegoa x kampai - bilbao, eh - 21 december 23
 

@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg10/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 pascal gaigne "iguzki hauskar" (heg010) - july 2024
 

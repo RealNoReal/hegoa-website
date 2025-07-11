@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg13/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 al karpenter "greatest heads" (heg013) - july 2025
 

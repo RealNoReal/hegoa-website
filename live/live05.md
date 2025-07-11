@@ -6,7 +6,7 @@ tags: live
 permalink: /live/live05/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 hegoa x cafe oto - london - 6 august 25
 

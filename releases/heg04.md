@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg04/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 verde prato "jaikiera" (heg04) - may 2022
 

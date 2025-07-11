@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/hegt01/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 estralurtarrak "another frontline compilation" (heg-t01) - october 2021
 

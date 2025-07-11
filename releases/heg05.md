@@ -7,7 +7,7 @@ permalink: /releases/heg05/
 ---
 
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 ol uz "ol uz" (heg05) - september 2022
 

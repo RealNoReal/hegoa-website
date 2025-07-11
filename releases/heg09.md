@@ -6,7 +6,7 @@ tags: release
 permalink: /releases/heg09/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 dopelganger "sainen hildo" (heg09) - december 2023
 

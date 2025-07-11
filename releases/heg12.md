@@ -7,7 +7,7 @@ permalink: /releases/heg12/
 ---
 
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 joseba irazoki "gitarra onomatopeikoa II" (heg012) - march 2025
 

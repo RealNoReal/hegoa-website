@@ -7,7 +7,7 @@ permalink: /releases/heg11/
 ---
 
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 iker munduate "argi zantzuak" (heg011) - october 2024
 

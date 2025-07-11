@@ -6,7 +6,7 @@ tags: live
 permalink: /live/live03/
 ---
 
-home
+<p><a href="/" class="home-link">home</a></p>
 
 hegoa x nahas mahas - saint jean de luz, france - 27 december 24
 
