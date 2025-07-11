@@ -1,8 +1,10 @@
 {% extends "base.njk" %}
+
 {% block content %}
-  <div class="page-content watch">
-    <a class="home-link" href="/">← back to home</a>
-    <h1>{{ title }}</h1>
+  <div class="page-content">
+    {% if video %}
+      {{ video | safe }}
+    {% endif %}
     {{ content | safe }}
   </div>
 {% endblock %}

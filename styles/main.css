@@ -139,3 +139,12 @@ img {
   height: auto;
   display: block;
 }
+
+/* Universal responsive iframe fix */
+iframe {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
