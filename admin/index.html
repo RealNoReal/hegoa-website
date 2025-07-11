@@ -1,12 +1,14 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <title>Hegoa Admin</title>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </head>
 <body>
+<!-- Your CMS config will be auto-loaded from /admin/config.yml -->
 <script>
+    window.CMS_MANUAL_INIT = true;
     CMS.init();
 </script>
 </body>
