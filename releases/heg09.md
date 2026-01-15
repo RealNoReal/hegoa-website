@@ -10,7 +10,7 @@ permalink: /releases/heg09/
 
 dopelganger "sainen hildo" (heg09) - december 2023
 
-![Sainen Hildo](/assets/Heg09_A.webp)
+![Sainen Hildo](/assets/Heg09_B.webp)
 
 Dopelganger is the project in collaboration between classically trained accordion player and singer Garazi Navas (Usansolo, Bizkaia-Biscay, 1995) and Miguel A. Garcia (Vitoria-Gasteiz), an artist living in Bilbao with an extensive career in the fields of experimental music and sound art.
 
@@ -22,8 +22,4 @@ Dopelganger is the project in collaboration between classically trained accordio
 
      Acrylic painting on heavyweight paper by Maite Mugerza Ronse. Limited edition of 300 black vinyl LP’s housed in a coloured matt laminated cover.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=749646337/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/sainen-hildo">
-      Sainen Hildo de Dopelganger
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=749646337/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/sainen-hildo">Sainen Hildo by Dopelganger</a></iframe>
