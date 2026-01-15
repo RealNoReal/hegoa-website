@@ -19,8 +19,4 @@ iker munduate "argi zantzuak" (heg011) - october 2024
      After self-releasing various tapes and EP’s experimenting with minimal approaches to production and composition, “Argi Zantzuak” is Iker’s first solo album, and is a long departure from his previous outlets. Prior, He’s been actively involved running “Azkar Zintak” (punk/emo/hardcore tape label), playing in bands like Tenpera & Comic Sans (both aligned with the same style as the label) as well as taking part in the local Free Jazz/Improv & Noise scene performing as a drummer. Together with being present in the underground scene of San Sebastian (Distopia Mutante, Kontenedora…), He has performed at the international festival of experimental art MEM in Bilbao, and at the conference of video creation and sound experimentation Nokodek, in Hendaye, France.
      Limited edition of 250.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=2427904556/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/argi-zantzuak">
-      Argi Zantzuak de Iker Munduate
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2427904556/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/argi-zantzuak">Argi Zantzuak by Iker Munduate</a></iframe>
