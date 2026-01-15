@@ -24,8 +24,4 @@ Al Karpenter expands on their Post-Genre Punk approach reaching a new level of m
 
         “There's a dub housing / new picnic time era Pere Ubu vibe (gone wrong) all over that I absolutely adore.” Hicham Chadly from Nashazphone Records.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=20439655/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/greatest-heads">
-      Greatest Heads de Al Karpenter
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=20439655/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/greatest-heads">Greatest Heads by Al Karpenter</a></iframe>
