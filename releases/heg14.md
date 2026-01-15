@@ -18,8 +18,4 @@ This is a compilation of recordings made at different stages in Jmur’s life. T
 
      In 2023, he made the documentary "Burrundaie: Stories of the First Rock of Urola," in which, through interviews and archival footage, he shines a light on how the first rock bands from Azkoitia and Azpeitia were created in the 1970s and 1980s. Find out more on @burrundaie.docu (IG), an archive where he recovers audiovisual material from the era.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3918257765/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/s-t">
-      s/t de Jmur
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3918257765/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/s-t">s/t by Jmur</a></iframe>
