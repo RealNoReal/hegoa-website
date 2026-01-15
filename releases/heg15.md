@@ -10,7 +10,7 @@ permalink: /releases/heg15/
 
 hekura "two lonely space pilots" (heg015) - october 2025
 
-![ejemplo](/assets/Heg02_A.webp)
+![heg15](/assets/Heg15_B.webp)
 
 For fans of: John Tchicai (with strings), Steve Reich, Arv & Miljö (Discreet)
 
