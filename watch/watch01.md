@@ -10,7 +10,7 @@ permalink: /watch/watch01/
 
 sonar ciudades (xabier iriondo) - september 2006
 
-<iframe src="https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/preview?usp=sharing" width="640" height="640" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/preview?usp=sharing" width="320" height="320" allow="autoplay"></iframe>
 
 Seguimos al músico Llorenç Barber durante la preparación del concierto que ofreció en Vera de Bidasoa/Bera a propósito del Festival de Otras Músicas ERTZ en septiembre de 2006.
 
