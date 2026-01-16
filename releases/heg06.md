@@ -10,7 +10,7 @@ permalink: /releases/heg06/
 
 alberto lizarralde "haizetxe" (heg06) - march 2023
 
-![Haizetxe](/assets/Heg06_A.webp)
+![Haizetxe](/assets/Heg06_B.webp)
 
 “Timeless minimalistic approach to composition braced by repetition and playfulness. Alberto’s music reflects calm, focus and intimacy. Ethereal and atmospheric, his pieces operate within the digital as well as the analogue realm in equal measures. Sampling, Midi sequencing and field recordings are the instrumentation used in these 15 songs recorded on a four track reel to reel tape. Highest possible recommendation for fans of Suso Saiz, Jon Hassel, Eno or Harold Budd”
      “Haizetxe” which stands for wind house, is the first ever record consisting of unreleased material recorded between mid 80’s and 90’s by musician Alberto Lizarralde in Zaldibia, Basque Country.
@@ -21,8 +21,4 @@ alberto lizarralde "haizetxe" (heg06) - march 2023
      In all this time he was composing and recording music, but the right circumstances never arose for its release.Thus, it has remained stored in a
      drawer all these years. Finally the music of Alberto Lizarralde sees the light on Hegoa label in a limited run of 300 LPs.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=1199694725/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/haizetxe">
-      Haizetxe de Alberto Lizarralde
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1199694725/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/haizetxe">&quot;Haizetxe&quot; by Alberto Lizarralde</a></iframe>
