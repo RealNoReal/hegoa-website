@@ -10,7 +10,7 @@ permalink: /releases/heg03/
 
 atanas akerstra "vol.1" (heg03) - july 2022
 
-![Atanas Akerstra Vol.1](/assets/Heg03_A.webp)
+![Atanas Akerstra Vol.1](/assets/Heg03_B.webp)
 
 Cosmic proto-blues. Atanas Akerstra is the solo project of Rogelio Astigarraga.
 
@@ -22,8 +22,4 @@ Cosmic proto-blues. Atanas Akerstra is the solo project of Rogelio Astigarraga.
 
      Roge released Vol.1 back in 2006, compiling music composed during 1991–2016. It was published by Iñigo Ugarteburu on his own Talo Recordings label as handmade CDs and a limited run of 125 LPs in handmade covers. Now reissued with the original artwork.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3148008875/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/atanas-akerstra-vol-1">
-      Atanas Akerstra Vol. 1 de Hegoa
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3148008875/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/atanas-akerstra-vol-1">Atanas Akerstra - Vol. 1 by Hegoa</a></iframe>
