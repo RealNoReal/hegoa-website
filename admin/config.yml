@@ -5,18 +5,7 @@ backend:
 media_folder: "public/assets"
 public_folder: "/assets"
 
-collections:
-  - name: "watch"
-    label: "Watch"
-    folder: "watch"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Video Embed (iframe)", name: "video", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
-      
+collections:    
   - name: "release"
     label: "Releases"
     folder: "releases"
