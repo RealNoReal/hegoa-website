@@ -23,9 +23,34 @@ llorenç barber, sonar ciudades (xabier iriondo) - september 2006
 
 Seguimos al músico Llorenç Barber durante la preparación del concierto que ofreció en Vera de Bidasoa/Bera a propósito del Festival de Otras Músicas ERTZ en septiembre de 2006.
 
-Formato original: Mini DV y Súper8.
+Formato original: Mini DV y Súper8.  
+
 Duración: 52’.
+
 Dirección: Xabier Iriondo.
+
 Montaje: Fernando Aguirre y Xabier Iriondo.
+
 Sonido directo: Fernando Aguirre e Iñigo Ugarteburu.
+
 Con la participación de: Llorenç Barber.
+
+Festival de Otras Músicas ERTZ 2007
+
+Nits dáielo 2007
+
+Festival Escena Contemporánea, Madrid 2007
+
+Sensexperiment 2008
+
+Settimana Basca, Roma 2008
+
+In sonora IV, Madrid 2008
+
+Sotoko Hotsak 2008
+
+Intramurs Festival Per L´Art a Valencia 2014
+
+CityVídeoFest (Valencia-Buenos Aires) 2014
+
+Fórum Europeu, Tramontana, Lafoes, Portugal, 2015
