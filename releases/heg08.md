@@ -11,7 +11,7 @@ permalink: /releases/heg08/
 
 bidai "biarrezgaur" (heg08) - december 2023
 
-![Bidai](/assets/Heg08_A.webp)
+![Bidai](/assets/Heg08_B.webp)
 
 Biarrezgaur (not tomorrow, today) is a blissful and misty set of guitar tones entangled with effects and reverberation. Dreamy and reflective proto-blues-folk sketches that suggest a sense of matured serenity that only comes with years of practice. Spontaneous, gentle and free-flowing in equal parts, Biarrezgaur is a perfect autumnal recipe for those looking in the direction of Six Organs of Admittance, Loren Connors with Alan Licht, or even Robbie Basho or Albert Gimenez if you listen to the closing track Itzulera.
 
@@ -23,4 +23,4 @@ Biarrezgaur (not tomorrow, today) is a blissful and misty set of guitar tones en
 
      Limited edition of 300 black vinyl LP’s housed in a coloured matt laminated cover designed between Xabi Strubell, Mikel Vega & Mikel Acosta.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=1479468834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 100%; height: 120px;"><a href="https://hegoadiskak.bandcamp.com/album/biarrezgaur">Biarrezgaur de Bidai</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1479468834/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/biarrezgaur">Biarrezgaur by Bidai</a></iframe>
