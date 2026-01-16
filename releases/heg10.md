@@ -12,7 +12,7 @@ pascal gaigne "iguzki hauskar" (heg010) - july 2024
 
 ![Iguzki Hauskara](/assets/Heg010_B.webp)
 
-“Iguzki Hauskara by Pascal Gaigne, combines Basque Folk oral tradition, Spanish guitar and Contemporary Classical minimal compositions in equal parts. Beautifully haunting, wondrous and expansive, this record speaks to the spirit. A timeless document that befits situations and sceneries that existed long before this record was made. A pivotal moment in Pascal’s career, highest possible recommendation for fans of 80’s counterpart instrumentalists like Luis Paniagua, Wim Mertens’s Soft Verdict, Albert Gimenez or Pep Llopis”
+Iguzki Hauskara by Pascal Gaigne, combines Basque Folk oral tradition, Spanish guitar and Contemporary Classical minimal compositions in equal parts. Beautifully haunting, wondrous and expansive, this record speaks to the spirit. A timeless document that befits situations and sceneries that existed long before this record was made. A pivotal moment in Pascal’s career, highest possible recommendation for fans of 80’s counterpart instrumentalists like Luis Paniagua, Wim Mertens’s Soft Verdict, Albert Gimenez or Pep Llopis.
 
      Pascal Gaigne, born in France in 1958 and installed in San Sebastian since 1985, is a musician with a vast trajectory composing music for films. He has composed for more than 50 movies, won 16 awards (including a Goya award, Spanish Oscar equivalent) and had 15 nominations. He has worked with some of the most interesting new directors in Spanish cinema (Víctor Erice, Icíar Bolláin, Salvador García Ruíz, Daniel Sánchez Arévalo, Montxo Armendáriz), and foreign directors like France (Le cou de la girafe), Finland (Matka Edeniin) or Cuba (Omerta).
 
