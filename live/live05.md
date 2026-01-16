@@ -11,3 +11,7 @@ permalink: /live/live05/
 hegoa x cafe oto - london - 6 august 25
 
 ![photo](/assets/live5_0.webp)
+![photo](/assets/Cafeoto25A.webp)
+![photo](/assets/Cafeoto25D.webp)
+![photo](/assets/Cafeoto25C.webp)
+![photo](/assets/Cafeoto25B.webp)
