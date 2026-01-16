@@ -10,7 +10,7 @@ permalink: /releases/heg07/
 
 a.maiah "f(r)icciones" (heg07) - september 2023
 
-![F(r)icciones](/assets/Heg07_A.webp)
+![F(r)icciones](/assets/Heg07_B.webp)
 
 “F(r)icciones is a complicated
      piece of miscellaneous works. A set
@@ -55,8 +55,4 @@ a.maiah "f(r)icciones" (heg07) - september 2023
      between portable recorders in
      Burgos or at Estudios Nomadas.
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=228345558/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" style="border: 0; width: 400px; height: 120px;">
-<a href="https://hegoadiskak.bandcamp.com/album/f-r-icciones">
-      F(r)icciones de A.Maiah
-     </a>
-</iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=228345558/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/f-r-icciones">F(r)icciones by A.Maiah</a></iframe>
