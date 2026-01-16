@@ -12,7 +12,7 @@ a.maiah "f(r)icciones" (heg07) - september 2023
 
 ![F(r)icciones](/assets/Heg07_B.webp)
 
-“F(r)icciones is a complicated
+F(r)icciones is a complicated
      piece of miscellaneous works. A set
      of experiments in preparation for a
      gig at a noise convention in Orozco
@@ -23,7 +23,7 @@ a.maiah "f(r)icciones" (heg07) - september 2023
      trying to create a drone piece by
      accumulating guitar noise. The
      result? Burnt psychedelic blues
-     with electronics ”
+     with electronics.
 
      Partly an official soundtrack to
      “Durangas”, a documentary focusing
