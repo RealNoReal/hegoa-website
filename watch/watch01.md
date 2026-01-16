@@ -10,7 +10,10 @@ permalink: /watch/watch01/
 
 sonar ciudades (xabier iriondo) - september 2006
 
-<iframe src="https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/preview" width="480" height="480"></iframe>
+
+
+
 
 
 
