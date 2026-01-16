@@ -13,7 +13,7 @@ joseba irazoki "gitarra onomatopeikoa II" (heg012) - march 2025
 
 ![Gitarra Onomatopeikoa II](/assets/Heg012_B.webp)
 
-“Onomatopeikoa II” follows on from
+Onomatopeikoa II follows on from
      Irazoki's 2017 Gitarra Onomatopeikoa
      release, and that album's sense of
      untethered, questing curiosity is not only
