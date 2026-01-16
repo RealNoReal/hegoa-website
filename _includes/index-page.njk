@@ -32,15 +32,6 @@
   </div>
 
   <div class="entry-block">
-    <div class="section-title">read</div>
-    <div class="entries">
-      {% for item in collections.read %}
-        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
-      {% endfor %}
-    </div>
-  </div>
-
-  <div class="entry-block">
     <div class="section-title">live</div>
     <div class="entries">
       {% for item in collections.live %}
@@ -49,4 +40,12 @@
     </div>
   </div>
 
+  <div class="entry-block">
+    <div class="section-title">read</div>
+    <div class="entries">
+      {% for item in collections.read %}
+        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
 
