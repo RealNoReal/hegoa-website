@@ -9,7 +9,6 @@ permalink: /watch/watch03/
 <p><a href="/" class="home-link">home</a></p>
 
 ica london, "deprisa deprisa" experimental sound piece by hegoa - august 2025
-date: 2006-08-29
 
 <iframe src="https://drive.google.com/file/d/1pCT-nBeFmwnMfAtiuGau7Ib7pcdqeflP/preview" width="640" height="480"></iframe>
 
