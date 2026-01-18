@@ -12,7 +12,7 @@ llorenç barber, sonar ciudades (xabier iriondo) - september 2006
 
 ![photo](/assets/sonarciudades.webp)
 
-[Watch video] (https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/view) 
+[Watch video](https://drive.google.com/file/d/1C4993oRC4eoI3CwRTDzE5Ps5G3oy7YW-/view) 
 
 It has been said that Llorenç Barber uses bells as instruments and cities as concert halls. Since the late 1980s, cities around the world have enjoyed his celebrated bell concerts. The documentary "Sonar Ciudades" (Sounding Cities) by Xabier Iriondo, in fact, follows the Valencian composer and musician during the days leading up to his concert in the Navarrese town of Bera, as part of the 2006 ERTZ New Music Festival. The film shows Barber's preparations for the performance alongside local artists.
 
