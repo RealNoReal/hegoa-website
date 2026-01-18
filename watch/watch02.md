@@ -8,7 +8,7 @@ permalink: /watch/watch02/
 
 <p><a href="/" class="home-link">home</a></p>
 
-cafe oto, on eitb teleberri news - august 2025
+hegoa x cafe oto, on eitb teleberri news - august 2025
 
 ![photo](/assets/TB.webp)
 
