@@ -10,4 +10,6 @@ permalink: /watch/watch02/
 
 cafe oto, on eitb teleberri news - august 2025
 
+![photo](/assets/TB.webp)
+
 [Watch video](https://drive.google.com/file/d/17NVlifeAfWV2tVa9gK7Ct6Sz2q-nMsEs/view)
