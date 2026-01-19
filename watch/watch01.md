@@ -29,3 +29,4 @@ Dirección: Xabier Iriondo.
 Montaje: Fernando Aguirre y Xabier Iriondo.  
 Sonido directo: Fernando Aguirre e Iñigo Ugarteburu.  
 Con la participación de: Llorenç Barber.
+
