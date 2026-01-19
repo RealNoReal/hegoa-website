@@ -100,6 +100,15 @@ main {
   max-width: 100%;
 }
 
+/* ✅ Embedded video player (Google Drive preview) */
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  display: block;
+  margin: 1rem 0 2rem 0;
+}
+
 /* Grid layout for live pages */
 .live-album-grid {
   display: grid;
