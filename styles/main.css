@@ -31,11 +31,6 @@ main {
   gap: 1rem;
 }
 
-/* FIX: watch spacing */
-.intro + .entry-block {
-  margin-bottom: 1.5rem;
-}
-
 /* Left-side section title */
 .section-title {
   flex: 0 0 80px;
@@ -76,7 +71,7 @@ main {
   width: 100%;
 }
 
-/* Shared content pages styling */
+/* Shared content pages styling (release, read, live...) */
 .page-content {
   font-family: HelveticaNeueLTStd-Roman, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15.3px;
@@ -95,11 +90,16 @@ main {
   margin-bottom: 2rem;
 }
 
+.page-content iframe {
+  margin-top: 1rem;
+  max-width: 100%;
+}
+
 /* -------------------------------------------------
-   VIDEO PLAYER – PERFECT, COMFORTABLE SIZE
+   VIDEO PLAYER – comfortable size + responsive
 -------------------------------------------------- */
 .video-wrapper {
-  max-width: 720px;       /* visually comfortable width */
+  max-width: 720px;
   margin: 2rem 0 2.5rem 0;
 }
 
@@ -124,7 +124,7 @@ main {
   display: block;
 }
 
-/* Styled "home" link */
+/* Styled "home" link on release pages (same as homepage links) */
 .page-content .home-link {
   position: relative;
   font-weight: normal;
@@ -149,9 +149,29 @@ main {
   width: 100%;
 }
 
-/* Universal image fix */
+/* ✅ UNIVERSAL IMAGE FIX — applies to all <img> elements on the site */
 img {
   max-width: 60%;
   height: auto;
   display: block;
+}
+
+/* -------------------------------------------------
+   HOMEPAGE SPACING FIXES
+   (watch is outside .column; contact/gallery are in a .column)
+-------------------------------------------------- */
+
+/* Space between intro and the first column (contact/gallery) */
+.intro + .column {
+  margin-top: 1.5rem;
+}
+
+/* Space between gallery column and standalone watch block */
+.column + .entry-block {
+  margin-top: 1.5rem;
+}
+
+/* Space between standalone watch block and next column (catalog/radio/live/read) */
+.entry-block + .column {
+  margin-top: 1.5rem;
 }
