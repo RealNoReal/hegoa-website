@@ -1,18 +1,42 @@
+<!-- TOP LINKS -->
+<div class="column">
+
+  <div class="entry-block">
+    <div class="section-title">contact</div>
+    <div class="entries">
+      <a href="mailto:mikelscp@gmail.com">mikelscp@gmail.com</a>
+    </div>
+  </div>
+
+  <div class="entry-block">
+    <div class="section-title">gallery</div>
+    <div class="entries">
+      <a href="https://www.instagram.com/hegoadiskak/?hl=en" target="_blank" rel="noopener">
+        instagram
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<!-- INTRO -->
 <div class="intro">
   Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.
 </div>
 
-  <div class="entry-block">
-    <div class="section-title">watch</div>
-    <div class="entries">
-      {% for item in collections.watch %}
-        <a href="{{ item.url }}">{{ item.data.title }}</a>
-      {% endfor %}
-    </div>
+<!-- WATCH -->
+<div class="entry-block">
+  <div class="section-title">watch</div>
+  <div class="entries">
+    {% for item in collections.watch %}
+      <a href="{{ item.url }}">{{ item.data.title }}</a>
+    {% endfor %}
   </div>
 </div>
 
+<!-- MAIN COLUMN -->
 <div class="column">
+
   <div class="entry-block">
     <div class="section-title">catalog</div>
     <div class="entries">
@@ -26,7 +50,9 @@
     <div class="section-title">radio</div>
     <div class="entries">
       {% for item in collections.radio %}
-        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
+        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">
+          {{ item.data.title }}
+        </a>
       {% endfor %}
     </div>
   </div>
@@ -44,8 +70,11 @@
     <div class="section-title">read</div>
     <div class="entries">
       {% for item in collections.read %}
-        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">{{ item.data.title }}</a>
+        <a href="{{ item.data.external_url }}" target="_blank" rel="noopener">
+          {{ item.data.title }}
+        </a>
       {% endfor %}
     </div>
   </div>
 
+</div>
