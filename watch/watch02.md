@@ -12,4 +12,11 @@ hegoa x cafe oto, on eitb teleberri news - august 2025
 
 ![photo](/assets/TB.webp)
 
-[Watch video](https://drive.google.com/file/d/17NVlifeAfWV2tVa9gK7Ct6Sz2q-nMsEs/view)
+<div class="video-wrapper">
+  <iframe
+    class="video-embed"
+    src="https://drive.google.com/file/d/17NVlifeAfWV2tVa9gK7Ct6Sz2q-nMsEs/preview"
+    allow="autoplay"
+    allowfullscreen>
+  </iframe>
+</div>
