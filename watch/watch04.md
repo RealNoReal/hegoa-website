@@ -14,6 +14,8 @@ casa vacia - september 2006
 
 [watch video](https://vimeo.com/57360014?fl=pl&fe=sh)
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/42992711?h=d30c0f1cf4" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
 EU: Jorge Oteiza eta Néstor Basterretxea artistak 1957tik 70ko hamarkadaren erdialdera bitartean bizi izan ziren etxearen erorkinetan zehar eginiko ibilbidea da 'Etxe Hutsa'. Leku ilun eta huts hau esploratu bitartean, gaur egungo irudien eta iraganeko materialen artean elkarrizketa sortuko da.
 
 ES: 'Casa Vacía' es un recorrido por las ruinas de la casa de Irún en la que vivieron los artistas Jorge Oteiza y Néstor Basterretxea entre el año 1957 y mediados de los 70. Mientras exploramos este espacio oscuro y vacío se establece un diálogo entre las imágenes del presente y los materiales del pasado.
