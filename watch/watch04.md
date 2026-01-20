@@ -10,7 +10,7 @@ permalink: /watch/watch04/
 
 casa vacia - january 2013
 
-![photo](/assets/casavacia.webp)
+![photo](/assets/casavacia2.webp)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/42992711?h=d30c0f1cf4" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
