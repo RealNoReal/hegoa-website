@@ -1,14 +1,14 @@
 ---
 layout: watch.njk
-title: casa vacia, sonar ciudades (xabier iriondo) - september 2006
-date: 2006-08-29
+title: casa vacia, september 2006
+date: 2006-08-15
 tags: watch
 permalink: /watch/watch01/
 ---
 
 <p><a href="/" class="home-link">home</a></p>
 
-llorenç barber, sonar ciudades (xabier iriondo) - september 2006
+casa vacia - september 2006
 
 ![photo](/assets/sonarciudades.webp)
 
