@@ -1,6 +1,6 @@
 ---
 layout: watch.njk
-title: casa vacia, september 2006
+title: casa vacia, september 2012
 date: 2006-08-15
 tags: watch
 permalink: /watch/watch04/
@@ -8,9 +8,9 @@ permalink: /watch/watch04/
 
 <p><a href="/" class="home-link">home</a></p>
 
-casa vacia - september 2006
+casa vacia - september 2012
 
-![photo](/assets/sonarciudades.webp)
+![photo](/assets/casavacia.webp)
 
 [watch video](https://vimeo.com/57360014?fl=pl&fe=sh)
 
