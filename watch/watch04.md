@@ -1,6 +1,6 @@
 ---
 layout: watch.njk
-title: casa vacia, january 2013
+title: casa vacia, jorge oteiza (Jesús María Palacios) january 2013
 date: 2006-08-30
 tags: watch
 permalink: /watch/watch04/
