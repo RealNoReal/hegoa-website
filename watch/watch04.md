@@ -3,7 +3,7 @@ layout: watch.njk
 title: casa vacia, september 2006
 date: 2006-08-15
 tags: watch
-permalink: /watch/watch01/
+permalink: /watch/watch04/
 ---
 
 <p><a href="/" class="home-link">home</a></p>
