@@ -12,7 +12,7 @@ casa vacia - september 2006
 
 ![photo](/assets/sonarciudades.webp)
 
-![external_url](https://vimeo.com/57360014?fl=pl&fe=sh)
+[external_url](https://vimeo.com/57360014?fl=pl&fe=sh)
 
 EU: Jorge Oteiza eta Néstor Basterretxea artistak 1957tik 70ko hamarkadaren erdialdera bitartean bizi izan ziren etxearen erorkinetan zehar eginiko ibilbidea da 'Etxe Hutsa'. Leku ilun eta huts hau esploratu bitartean, gaur egungo irudien eta iraganeko materialen artean elkarrizketa sortuko da.
 
