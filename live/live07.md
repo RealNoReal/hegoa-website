@@ -3,7 +3,7 @@ layout: live.njk
 title: hegoa x zona norte tour - donosti, bilbao, bayona - 17,18,19 june 2026
 date: 2026-06-17
 tags: live
-permalink: /live/live06/
+permalink: /live/live07/
 ---
 
 <p><a href="/" class="home-link">home</a></p>
