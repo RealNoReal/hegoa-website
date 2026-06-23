@@ -11,3 +11,6 @@ permalink: /live/live06/
 hegoa x real no real x cafe oto - london - 9 may 26
 
 ![photo](/assets/rnroto1.webp)
+![photo](/assets/rnroto2.webp)
+![photo](/assets/rnroto3.webp)
+![photo](/assets/rnroto4.webp)
