@@ -10,7 +10,7 @@ permalink: /releases/heg16/
 
 vehiculo autonomo "una meditacion desviada" (heg016) - may 2026
 
-![heg15](/assets/Heg15_B.webp)
+![heg16](/assets/vacd.webp)
 
 “…Keep in mind that there are things. There are things you'll never understand. And you don't have to understand everything. Like the elevator getting stuck and you being outside. Being outside. And inside, the light. Even though you can't see anything. Even though you can't see anything."
 
