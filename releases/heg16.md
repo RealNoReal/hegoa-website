@@ -38,4 +38,4 @@ Think Idea Fire Company, Tim Goss on holidays in Alicante, or that beautiful rec
 A single 28 min piece recorded in Tetuán, Madrid - we believe it was July, in the pandemic year of 2020. 
 Finally released as originally intended on a limited edition of 75 CD’s with artwork by Granada’s finest Fátima Moreno, screen printed by Gonçalo Duarte in Lisbon. 
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1510757190/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/una-meditacion-desviada">Una Meditacion Desviada by Vehículo Autónomo</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1510757190/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://hegoadiskak.bandcamp.com/album/una-meditacion-desviada">Una Meditacion Desviada by Vehículo Autónomo</a></iframe>
