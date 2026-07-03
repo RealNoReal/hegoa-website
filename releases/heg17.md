@@ -10,7 +10,7 @@ permalink: /releases/heg17/
 
 lluch "la proyección" (heg017) - august 2026
 
-![heg17](/assets/vacd.webp)
+![heg17](/assets/lluch.webp)
 
 “La Proyección”, the debut LP by Jose María Lluch, architect and musician from San Sebastian, appears as a transition, a gradual shift that happened over time. Intimate and innocent, disconnected and erratic at times, the 11 compositions presented here are extracted from recordings spanning 9 years, between 2015-2024. Humbly assorted in his home studio, the music here is for letting your mind drift. The processes of composition, recording, and editing intertwine. Field recordings from daily chores, fingerpicking guitar, soothing harmonics, tape manipulation and ethereal soundscapes, all combined with naive openness. We uncover joy found in imperfection. It is rare the occasion on which we have the chance to have a peak at someone's work, unattended, without specific context, after years spent making music simply to break away, not for anyone but for themselves. The songs in “La Proyección” unveil exactly that essence, found through collective memory.
 
