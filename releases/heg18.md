@@ -10,7 +10,7 @@ permalink: /releases/heg18/
 
 iker munduate "sinkronia" (heg018) - september 2026
 
-![heg17](/assets/lluch.webp)
+![heg18](/assets/Heg018.webp)
 
 “Iker Munduate is an artist and musician who brings a delicate sense of composition and design... Inspired in part by new age music, Its rippling melodies and frictionless glide recall the futuristic utopias of Detroit Escalator Company and the interior reverie of Nobukazu Takemura (Derek Walmsley, The Wire Dec’24)”
 
